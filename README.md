@@ -1,6 +1,6 @@
 # Oryx: An efficient and user-friendly MPC framework without the need for any third party libraries
 
-This repository is the complete implementation of the paper: **<span style="color:red">Private Identity Intersection: Enhanced Secure PSI from an Efficient and User Friendly MPC Framework**</span>, which allows readers to understand our protocol and reproduce our results.
+This repository is the complete implementation of the paper: **<span style="color:red">Privacy-Preserving Authorized Set Matching via Dishonest Majority Multiparty Computation**</span>, which allows readers to understand our protocol and reproduce our results.
 
 $\mathsf{Oryx}$ is a library that was implemented to implement the **<span style="color:red">Private Identity Intersection (PII)**</span> protocols. It implements arbitrary calculations on the prime number field $\mathbb{F}_p$, the elliptic curve field $\mathbb{G}$, and the bilinear group ($\mathbb{G}_1$, $\mathbb{G}_2$, $\mathbb{G}_T$).
 
