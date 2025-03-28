@@ -38,7 +38,8 @@ cd Oryx
 docker build -t pii:latest .
 docker run -it pii bash
 go run main.go
-```
+```  
+If you encounter proxy issues while using Docker (especially if you are in mainland China), please resolve the proxy configuration accordingly.
 
 ## How to run PII
 
