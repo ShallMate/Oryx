@@ -133,7 +133,7 @@ func (system *PIISystem) twoPartyPiiRun(inputsets []InputSet, seedsets []SeedSet
 	intertime := time.Now()
 	intersection := system.interphase(versets, seedsets)
 	fmt.Println("inter time:", time.Since(intertime))
-	fmt.Println("intersection:", intersection)
+	//fmt.Println("intersection:", intersection)
 	fmt.Printf("Offline Communication: %f MB\n", float64(system.PiiSystem.System.OfflineCom)/1024/1024)
 	fmt.Printf("Online Communication: %f MB\n", float64(system.PiiSystem.System.Com)/1024/1024)
 	return intersection

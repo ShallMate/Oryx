@@ -62,6 +62,12 @@ func BandwidthLimitMbps(msg []byte, bandwidthMbps float64) {
 	time.Sleep(delay)
 }
 
+func BroadcastBandwidthLimitMbps(msg []byte, bandwidthMbps float64, partynum int) {
+	delaySeconds := float64(len(msg)*8) / (bandwidthMbps * 1_000_000)
+	delay := time.Duration(delaySeconds * float64(time.Second) * float64(partynum))
+	time.Sleep(delay)
+}
+
 func (system *ShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64(len(msg)))
 	if system.isWAN {
@@ -73,7 +79,7 @@ func (system *ShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 func (system *ShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum-1)*len(msg)))
 	if system.isWAN {
-		BandwidthLimitMbps(msg, system.bandwidth)
+		BroadcastBandwidthLimitMbps(msg, system.bandwidth, system.Partynum-1)
 	}
 	wg.Done()
 }
@@ -81,7 +87,7 @@ func (system *ShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 func (system *ShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum)*len(msg)))
 	if system.isWAN {
-		BandwidthLimitMbps(msg, system.bandwidth)
+		BroadcastBandwidthLimitMbps(msg, system.bandwidth, system.Partynum)
 	}
 	wg.Done()
 }
@@ -97,7 +103,7 @@ func (system *ShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 func (system *ShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum-1)*len(msg)))
 	if system.isWAN {
-		BandwidthLimitMbps(msg, system.bandwidth)
+		BroadcastBandwidthLimitMbps(msg, system.bandwidth, system.Partynum-1)
 	}
 	wg.Done()
 }
@@ -105,7 +111,7 @@ func (system *ShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 func (system *ShareSystem) OfflineBroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum)*len(msg)))
 	if system.isWAN {
-		BandwidthLimitMbps(msg, system.bandwidth)
+		BroadcastBandwidthLimitMbps(msg, system.bandwidth, system.Partynum)
 	}
 	wg.Done()
 }
@@ -121,7 +127,7 @@ func (system *ECCShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 func (system *ECCShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum-1)*len(msg)))
 	if system.isWAN {
-		BandwidthLimitMbps(msg, system.bandwidth)
+		BroadcastBandwidthLimitMbps(msg, system.bandwidth, system.Partynum-1)
 	}
 	wg.Done()
 }
@@ -129,7 +135,7 @@ func (system *ECCShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 func (system *ECCShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum)*len(msg)))
 	if system.isWAN {
-		BandwidthLimitMbps(msg, system.bandwidth)
+		BroadcastBandwidthLimitMbps(msg, system.bandwidth, system.Partynum)
 	}
 	wg.Done()
 }
@@ -145,7 +151,7 @@ func (system *ECCShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 func (system *ECCShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum-1)*len(msg)))
 	if system.isWAN {
-		BandwidthLimitMbps(msg, system.bandwidth)
+		BroadcastBandwidthLimitMbps(msg, system.bandwidth, system.Partynum-1)
 	}
 	wg.Done()
 }
@@ -153,7 +159,7 @@ func (system *ECCShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 func (system *ECCShareSystem) OfflineBroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum)*len(msg)))
 	if system.isWAN {
-		BandwidthLimitMbps(msg, system.bandwidth)
+		BroadcastBandwidthLimitMbps(msg, system.bandwidth, system.Partynum)
 	}
 	wg.Done()
 }
