@@ -5,6 +5,7 @@ import (
 	"math/big"
 	"sync"
 	"sync/atomic"
+	"time"
 
 	curve "github.com/Oryx/curve"
 	"github.com/Oryx/ecc"
@@ -26,6 +27,8 @@ type ShareSystem struct {
 	OrderMul   *big.Int
 	Com        int64
 	OfflineCom int64
+	isWAN      bool
+	bandwidth  float64
 }
 
 type ECCShareSystem struct {
@@ -38,6 +41,8 @@ type ECCShareSystem struct {
 	Curve      *ecc.KoblitzCurve
 	Com        int64
 	OfflineCom int64
+	isWAN      bool
+	bandwidth  float64
 }
 
 type Triplets struct {
@@ -51,63 +56,105 @@ type SquarePair struct {
 	B *big.Int
 }
 
+func BandwidthLimitMbps(msg []byte, bandwidthMbps float64) {
+	delaySeconds := float64(len(msg)*8) / (bandwidthMbps * 1_000_000)
+	delay := time.Duration(delaySeconds * float64(time.Second))
+	time.Sleep(delay)
+}
+
 func (system *ShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64(len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum-1)*len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum)*len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64(len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum-1)*len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ShareSystem) OfflineBroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum)*len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ECCShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64(len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ECCShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum-1)*len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ECCShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum)*len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ECCShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64(len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ECCShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum-1)*len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
 func (system *ECCShareSystem) OfflineBroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum)*len(msg)))
+	if system.isWAN {
+		BandwidthLimitMbps(msg, system.bandwidth)
+	}
 	wg.Done()
 }
 
@@ -194,5 +241,55 @@ func ECCSystemInit(Partynum int) *ECCShareSystem {
 	system.IdentityGx, system.IdentityGy = s.ScalarMult(s.Gx, s.Gy, zero.Bytes())
 	system.Order = new(big.Int).Set(s.N)
 	system.Curve = s
+	return system
+}
+
+func SystemInitWAN(Partynum int, bandwidth float64) *ShareSystem {
+	system := new(ShareSystem)
+	system.Partynum = Partynum
+	system.alpha, _ = curve.RandomK(rand.Reader)
+	orialpha := new(big.Int).Set(system.alpha)
+	system.Alphas = make([]*big.Int, Partynum)
+	for i := 0; i < system.Partynum; i++ {
+		if i < system.Partynum-1 {
+			system.Alphas[i], _ = curve.RandomK(rand.Reader)
+			orialpha = orialpha.Sub(orialpha, system.Alphas[i])
+			orialpha = orialpha.Mod(orialpha, curve.Order)
+		} else {
+			system.Alphas[i] = orialpha
+		}
+	}
+	system.IdentityG1 = new(curve.G1).ScalarBaseMult(zero)
+	system.IdentityG2 = new(curve.G2).ScalarBaseMult(zero)
+	system.GenGT = curve.Pair(curve.Gen1, curve.Gen2)
+	system.IdentityGT = new(curve.GT).ScalarMult(system.GenGT, zero)
+	system.Order = new(big.Int).Set(curve.Order)
+	system.OrderMul = new(big.Int).Sub(curve.Order, one)
+	system.isWAN = true
+	system.bandwidth = bandwidth
+	return system
+}
+
+func ECCSystemInitWAN(Partynum int, bandwidth float64) *ECCShareSystem {
+	system := new(ECCShareSystem)
+	system.Partynum = Partynum
+	s := ecc.S256()
+	system.alpha, _ = rand.Int(rand.Reader, s.N)
+	orialpha := new(big.Int).Set(system.alpha)
+	system.Alphas = make([]*big.Int, Partynum)
+	for i := 0; i < system.Partynum; i++ {
+		if i < system.Partynum-1 {
+			system.Alphas[i], _ = curve.RandomK(rand.Reader)
+			orialpha = orialpha.Sub(orialpha, system.Alphas[i])
+			orialpha = orialpha.Mod(orialpha, s.N)
+		} else {
+			system.Alphas[i] = orialpha
+		}
+	}
+	system.IdentityGx, system.IdentityGy = s.ScalarMult(s.Gx, s.Gy, zero.Bytes())
+	system.Order = new(big.Int).Set(s.N)
+	system.Curve = s
+	system.isWAN = true
+	system.bandwidth = bandwidth
 	return system
 }

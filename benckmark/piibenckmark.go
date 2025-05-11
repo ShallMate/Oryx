@@ -19,7 +19,7 @@ func TwoPartyPII_AIBS_example() {
 	t1 := time.Now()
 
 	// If the third parameter is 0, it is the PII protocol, and if it is 1, it is the PIIv protocol.
-	pii.PIIProtocol(intersize, inputsize, 0)
+	pii.PIIProtocol(intersize, inputsize, 0, false, 0)
 	t2 := time.Since(t1)
 	fmt.Println(t2)
 }
@@ -29,7 +29,7 @@ func TwoPartyPIIv_AIBS_example() {
 	inputsize := []int{32, 32}
 	intersize := 10
 	t1 := time.Now()
-	pii.PIIProtocol(intersize, inputsize, 1)
+	pii.PIIProtocol(intersize, inputsize, 1, false, 0)
 	t2 := time.Since(t1)
 	fmt.Println(t2)
 }
@@ -39,7 +39,7 @@ func MutiPartyPIIv_AIBS_example() {
 	inputsize := []int{32, 32, 32}
 	intersize := 10
 	t1 := time.Now()
-	pii.PIIProtocol(intersize, inputsize, 1)
+	pii.PIIProtocol(intersize, inputsize, 1, false, 0)
 	t2 := time.Since(t1)
 	fmt.Println(t2)
 }
@@ -49,7 +49,7 @@ func TwoPartyPII_BLS_example() {
 	inputsize := []int{32, 32}
 	intersize := 10
 	t1 := time.Now()
-	pii_bls.PIIProtocol(intersize, inputsize, 0)
+	pii_bls.PIIProtocol(intersize, inputsize, 0, false, 0)
 	t2 := time.Since(t1)
 	fmt.Println(t2)
 }
@@ -59,7 +59,7 @@ func TwoPartyPIIv_BLS_example() {
 	inputsize := []int{32, 32}
 	intersize := 10
 	t1 := time.Now()
-	pii_bls.PIIProtocol(intersize, inputsize, 1)
+	pii_bls.PIIProtocol(intersize, inputsize, 1, false, 0)
 	t2 := time.Since(t1)
 	fmt.Println(t2)
 }
@@ -69,7 +69,7 @@ func TwoPartyPII_ECDSA_example() {
 	inputsize := []int{32, 32}
 	intersize := 10
 	t1 := time.Now()
-	pii_ecdsa.PIIProtocol(intersize, inputsize, 0)
+	pii_ecdsa.PIIProtocol(intersize, inputsize, 0, false, 0)
 	t2 := time.Since(t1)
 	fmt.Println(t2)
 }
@@ -79,7 +79,7 @@ func TwoPartyPIIv_ECDSA_example() {
 	inputsize := []int{32, 32}
 	intersize := 10
 	t1 := time.Now()
-	pii_ecdsa.PIIProtocol(intersize, inputsize, 1)
+	pii_ecdsa.PIIProtocol(intersize, inputsize, 1, false, 0)
 	t2 := time.Since(t1)
 	fmt.Println(t2)
 }

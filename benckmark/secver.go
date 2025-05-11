@@ -13,7 +13,7 @@ import (
 
 func TestSecVerECDSA() {
 	// Parameter 1 is the number of parties, and parameter 2 denotes whether it is the malicious model
-	system := ecdsa.SecureVerInit(2, true)
+	system := ecdsa.SecureVerInit(2, true, false, 0)
 
 	// Setup
 	eccsystem := ecdsa.NewECDSA()
@@ -47,7 +47,7 @@ func TestSecVerECDSA() {
 
 func BenckmarkSecVerECDSA() {
 	for partynum := 2; partynum <= 10; partynum++ {
-		system := ecdsa.SecureVerInit(partynum, false)
+		system := ecdsa.SecureVerInit(partynum, false, false, 0)
 		eccsystem := ecdsa.NewECDSA()
 		sk, pk := eccsystem.KeyGen()
 		msg := "hello world"
@@ -78,7 +78,7 @@ func BenckmarkSecVerECDSA() {
 
 func TestSecVerBLS() {
 	// Parameter 1 is the number of parties, and parameter 2 denotes whether it is the malicious model
-	system := bls.SecureVerInit(2, true)
+	system := bls.SecureVerInit(2, true, false, 0)
 
 	// KeyGen
 	sk, pk := bls.KeyGen()
@@ -109,7 +109,7 @@ func TestSecVerBLS() {
 
 func BenckmarkSecVerBLS() {
 	for partynum := 2; partynum <= 10; partynum++ {
-		system := bls.SecureVerInit(partynum, false)
+		system := bls.SecureVerInit(partynum, false, false, 0)
 		sk, pk := bls.KeyGen()
 		msg := "hello world"
 		sig, hm := bls.SignwithHm(sk, []byte(msg))
@@ -140,7 +140,7 @@ func TestSecVerAIBS() {
 	// Parameter 1 is the number of parties
 	// parameter 2 denotes the MPK
 	// Parameter 3 denotes whether it is the malicious model
-	system := *ibs.SecureVerInit(2, &msk.MasterPubKey, true)
+	system := *ibs.SecureVerInit(2, &msk.MasterPubKey, true, false, 0)
 
 	// id
 	userid := big.NewInt(9567)
@@ -175,7 +175,7 @@ func TestSecVerAIBS() {
 func BenckmarkSecVerAIBS() {
 	for partynum := 2; partynum <= 10; partynum++ {
 		msk := ibs.MasterKeyGen()
-		system := *ibs.SecureVerInit(partynum, &msk.MasterPubKey, false)
+		system := *ibs.SecureVerInit(partynum, &msk.MasterPubKey, false, false, 0)
 		userid := big.NewInt(9567)
 		sk := ibs.UserKeyGen(msk, userid)
 		msg := "hello world"

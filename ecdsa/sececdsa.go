@@ -24,14 +24,22 @@ type Share_Sig struct {
 	SemiPkshare *[]shmpc.Share_G
 }
 
-func SecureVerInit(Partynum int, ismalicious bool) *SecureVer {
+func SecureVerInit(Partynum int, ismalicious bool, isWAN bool, bandwidth float64) *SecureVer {
 	securever := new(SecureVer)
 	securever.Ecdsa = NewECDSA()
 	if ismalicious {
-		securever.System = *mpc.ECCSystemInit(Partynum)
+		if isWAN {
+			securever.System = *mpc.ECCSystemInitWAN(Partynum, bandwidth)
+		} else {
+			securever.System = *mpc.ECCSystemInit(Partynum)
+		}
 		securever.Security = true
 	} else {
-		securever.SemiSystem = *shmpc.ECCSystemInit(Partynum)
+		if isWAN {
+			securever.SemiSystem = *shmpc.ECCSystemInitWAN(Partynum, bandwidth)
+		} else {
+			securever.SemiSystem = *shmpc.ECCSystemInit(Partynum)
+		}
 		securever.Security = false
 	}
 	return securever

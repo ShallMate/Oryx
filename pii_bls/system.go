@@ -55,9 +55,9 @@ func (system *PIISystem) generateBigIntSlice(size, intersize int) []*bls.Private
 	return slice
 }
 
-func PiiInitSystem(Partynum int) *PIISystem {
+func PiiInitSystem(Partynum int, isWAN bool, bandwidth float64) *PIISystem {
 	piisystem := new(PIISystem)
-	piisystem.PiiSystem = bls.SecureVerInit(2, true)
+	piisystem.PiiSystem = bls.SecureVerInit(2, true, isWAN, bandwidth)
 	piisystem.partynum = Partynum
 	return piisystem
 }
@@ -208,9 +208,9 @@ func (system *PIISystem) GetCommunication() (float64, float64) {
 	return float64(system.PiiSystem.System.OfflineCom) / 1024 / 1024, float64(system.PiiSystem.System.Com) / 1024 / 1024
 }
 
-func PIIProtocol(intersize int, inputsize []int, mode int) *PIISystem {
+func PIIProtocol(intersize int, inputsize []int, mode int, isWAN bool, bandwidth float64) *PIISystem {
 	partynum := len(inputsize)
-	piisystem := PiiInitSystem(partynum)
+	piisystem := PiiInitSystem(partynum, isWAN, bandwidth)
 	timepoint := time.Now()
 	seedsets, privatesets := piisystem.PrepareData(intersize, inputsize)
 	timepoint1 := time.Since(timepoint)

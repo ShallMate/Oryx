@@ -29,12 +29,16 @@ type Share_Sig struct {
 	SemiHS1 *[]shmpc.Share_Fp
 }
 
-func SecureVerInit(Partynum int, mpk *MasterPubKey, ismalicious bool) *SecureVer {
+func SecureVerInit(Partynum int, mpk *MasterPubKey, ismalicious bool, isWAN bool, bandwidth float64) *SecureVer {
 	securever := new(SecureVer)
 	securever.Security = ismalicious
 	securever.mpk = mpk
 	if ismalicious {
-		securever.System = *mpc.SystemInit(Partynum)
+		if isWAN {
+			securever.System = *mpc.SystemInitWAN(Partynum, bandwidth)
+		} else {
+			securever.System = *mpc.SystemInit(Partynum)
+		}
 		securever.mpkshare = securever.System.Share_A_G2(mpk.Mpk)
 		securever.IdentityGTbytes = securever.System.IdentityGT.Marshal()
 	} else {
