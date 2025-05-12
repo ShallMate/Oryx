@@ -30,29 +30,21 @@ func NewBandwidthSimulator(bandwidthMbps float64) *BandwidthSimulator {
 }
 
 func (b *BandwidthSimulator) SimulateSend(msg []byte) {
-	// 计算模拟发送这条消息需要多久（单位：纳秒）
 	delayNs := int64(float64(len(msg)*8) / (b.bandwidthMbps * 1_000_000) * 1e9)
 
 	for {
-		// 获取当前时间和当前 nextFreeAt
 		now := time.Now().UnixNano()
 		prev := atomic.LoadInt64(&b.nextFreeAt)
-
-		// 如果已经过去，重置为现在
 		start := max(now, prev)
 		newFree := start + delayNs
-
-		// 尝试 CAS 设置新的 nextFreeAt
 		if atomic.CompareAndSwapInt64(&b.nextFreeAt, prev, newFree) {
 			sleepDuration := time.Until(time.Unix(0, start))
 			if sleepDuration > 0 {
 				time.Sleep(sleepDuration)
 			}
-			// 模拟发送过程所占用的时间
 			time.Sleep(time.Duration(delayNs))
 			break
 		}
-		// 否则冲突重试
 	}
 }
 
@@ -146,18 +138,6 @@ type SquarePair struct {
 	B *big.Int
 }
 
-func BandwidthLimitMbps(msg []byte, bandwidthMbps float64) {
-	delaySeconds := float64(len(msg)*8) / (bandwidthMbps * 1_000_000)
-	delay := time.Duration(delaySeconds * float64(time.Second))
-	time.Sleep(delay)
-}
-
-func BroadcastBandwidthLimitMbps(msg []byte, bandwidthMbps float64, partynum int) {
-	delaySeconds := float64(len(msg)*8) / (bandwidthMbps * 1_000_000)
-	delay := time.Duration(delaySeconds * float64(time.Second) * float64(partynum))
-	time.Sleep(delay)
-}
-
 func (system *ShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64(len(msg)))
 	if system.isWAN && system.BandwidthCtrl != nil {
@@ -176,7 +156,7 @@ func (system *ShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum)
 	}
 	wg.Done()
@@ -184,7 +164,7 @@ func (system *ShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64(len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateSend(msg)
 	}
 	wg.Done()
@@ -192,7 +172,7 @@ func (system *ShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum-1)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum-1)
 	}
 	wg.Done()
@@ -200,7 +180,7 @@ func (system *ShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ShareSystem) OfflineBroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum)
 	}
 	wg.Done()
@@ -208,7 +188,7 @@ func (system *ShareSystem) OfflineBroadcastN(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ECCShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64(len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateSend(msg)
 	}
 	wg.Done()
@@ -216,7 +196,7 @@ func (system *ECCShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ECCShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum-1)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum-1)
 	}
 	wg.Done()
@@ -224,7 +204,7 @@ func (system *ECCShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ECCShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum)
 	}
 	wg.Done()
@@ -232,7 +212,7 @@ func (system *ECCShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ECCShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64(len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateSend(msg)
 	}
 	wg.Done()
@@ -240,7 +220,7 @@ func (system *ECCShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ECCShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum-1)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum-1)
 	}
 	wg.Done()
@@ -248,7 +228,7 @@ func (system *ECCShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 
 func (system *ECCShareSystem) OfflineBroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum)
 	}
 	wg.Done()
@@ -256,7 +236,7 @@ func (system *ECCShareSystem) OfflineBroadcastN(wg *sync.WaitGroup, msg []byte) 
 
 func (system *RSAShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64(len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateSend(msg)
 	}
 	wg.Done()
@@ -264,7 +244,7 @@ func (system *RSAShareSystem) Send(wg *sync.WaitGroup, msg []byte) {
 
 func (system *RSAShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum-1)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum-1)
 	}
 	wg.Done()
@@ -272,7 +252,7 @@ func (system *RSAShareSystem) Broadcast(wg *sync.WaitGroup, msg []byte) {
 
 func (system *RSAShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.Com, int64((system.Partynum)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum)
 	}
 	wg.Done()
@@ -280,7 +260,7 @@ func (system *RSAShareSystem) BroadcastN(wg *sync.WaitGroup, msg []byte) {
 
 func (system *RSAShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64(len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateSend(msg)
 	}
 	wg.Done()
@@ -288,7 +268,7 @@ func (system *RSAShareSystem) OfflineSend(wg *sync.WaitGroup, msg []byte) {
 
 func (system *RSAShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum-1)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum-1)
 	}
 	wg.Done()
@@ -296,7 +276,7 @@ func (system *RSAShareSystem) OfflineBroadcast(wg *sync.WaitGroup, msg []byte) {
 
 func (system *RSAShareSystem) OfflineBroadcastN(wg *sync.WaitGroup, msg []byte) {
 	atomic.AddInt64(&system.OfflineCom, int64((system.Partynum)*len(msg)))
-	if system.isWAN {
+	if system.isWAN && system.BandwidthCtrl != nil {
 		system.BandwidthCtrl.SimulateBroadcast(msg, system.Partynum)
 	}
 	wg.Done()

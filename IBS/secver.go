@@ -42,7 +42,11 @@ func SecureVerInit(Partynum int, mpk *MasterPubKey, ismalicious bool, isWAN bool
 		securever.mpkshare = securever.System.Share_A_G2(mpk.Mpk)
 		securever.IdentityGTbytes = securever.System.IdentityGT.Marshal()
 	} else {
-		securever.SemiSystem = *shmpc.SystemInit(Partynum)
+		if isWAN {
+			securever.SemiSystem = *shmpc.SystemInitWAN(Partynum, bandwidth)
+		} else {
+			securever.SemiSystem = *shmpc.SystemInit(Partynum)
+		}
 		securever.Semimpkshare = securever.SemiSystem.Share_A_G2(mpk.Mpk)
 		securever.IdentityGTbytes = securever.SemiSystem.IdentityGT.Marshal()
 	}
