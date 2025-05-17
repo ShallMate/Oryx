@@ -16,6 +16,10 @@ func TestOryxWAN() {
 	benckmark.BenckmarkPair()
 }
 
+func TestMECDSAPII() {
+	benckmark.BenckmarkMutiPartyPII_ECDSA_example()
+}
+
 func TestPIIWAN() {
 	benckmark.BenckmarkTwoPartyPIIv_AIBS_example_WAN(100)
 	benckmark.BenckmarkTwoPartyPIIv_AIBS_example_WAN(500)
@@ -23,6 +27,7 @@ func TestPIIWAN() {
 
 func main() {
 
-	TestPIIWAN()
+	//TestPIIWAN()
 	//TestOryxWAN()
+	TestMECDSAPII()
 }

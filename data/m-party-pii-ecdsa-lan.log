@@ -1,0 +1,617 @@
+nohup: ignoring input
+n = 3
+Network Mode: LAN
+Input Sizes: [10 10 10]
+Data Preparation Time: 15.425322ms
+ver phase start
+ver time: 89.760931ms
+inter phase start
+inter time: 128.335211ms
+Offline Communication: 0.183987 MB
+Online Communication: 0.450734 MB
+249.289805ms
+n = 4
+Network Mode: LAN
+Input Sizes: [10 10 10 10]
+Data Preparation Time: 13.378823ms
+ver phase start
+ver time: 167.897382ms
+inter phase start
+inter time: 187.846612ms
+Offline Communication: 0.355174 MB
+Online Communication: 1.029683 MB
+387.395072ms
+n = 5
+Network Mode: LAN
+Input Sizes: [10 10 10 10 10]
+Data Preparation Time: 18.378562ms
+ver phase start
+ver time: 216.989594ms
+inter phase start
+inter time: 229.508154ms
+Offline Communication: 0.581260 MB
+Online Communication: 1.956823 MB
+476.354332ms
+n = 6
+Network Mode: LAN
+Input Sizes: [10 10 10 10 10 10]
+Data Preparation Time: 21.510706ms
+ver phase start
+ver time: 253.047319ms
+inter phase start
+inter time: 282.399725ms
+Offline Communication: 0.862273 MB
+Online Communication: 3.312656 MB
+578.231945ms
+n = 7
+Network Mode: LAN
+Input Sizes: [10 10 10 10 10 10 10]
+Data Preparation Time: 24.721712ms
+ver phase start
+ver time: 269.667331ms
+inter phase start
+inter time: 336.780512ms
+Offline Communication: 1.198206 MB
+Online Communication: 5.177817 MB
+647.565375ms
+n = 8
+Network Mode: LAN
+Input Sizes: [10 10 10 10 10 10 10 10]
+Data Preparation Time: 29.104012ms
+ver phase start
+ver time: 296.839916ms
+inter phase start
+inter time: 373.434324ms
+Offline Communication: 1.589108 MB
+Online Communication: 7.632948 MB
+726.848314ms
+n = 9
+Network Mode: LAN
+Input Sizes: [10 10 10 10 10 10 10 10 10]
+Data Preparation Time: 29.79354ms
+ver phase start
+ver time: 363.440685ms
+inter phase start
+inter time: 411.311593ms
+Offline Communication: 2.034844 MB
+Online Communication: 10.758431 MB
+821.093944ms
+n = 10
+Network Mode: LAN
+Input Sizes: [10 10 10 10 10 10 10 10 10 10]
+Data Preparation Time: 35.090288ms
+ver phase start
+ver time: 395.317543ms
+inter phase start
+inter time: 449.297256ms
+Offline Communication: 2.535620 MB
+Online Communication: 14.634594 MB
+910.679498ms
+n = 3
+Network Mode: LAN
+Input Sizes: [20 20 20]
+Data Preparation Time: 19.519307ms
+ver phase start
+ver time: 143.733784ms
+inter phase start
+inter time: 197.582689ms
+Offline Communication: 0.697515 MB
+Online Communication: 1.168727 MB
+367.595971ms
+n = 4
+Network Mode: LAN
+Input Sizes: [20 20 20 20]
+Data Preparation Time: 27.556718ms
+ver phase start
+ver time: 191.852988ms
+inter phase start
+inter time: 270.004602ms
+Offline Communication: 1.369362 MB
+Online Communication: 2.735168 MB
+497.386613ms
+n = 5
+Network Mode: LAN
+Input Sizes: [20 20 20 20 20]
+Data Preparation Time: 32.601321ms
+ver phase start
+ver time: 234.894913ms
+inter phase start
+inter time: 339.775218ms
+Offline Communication: 2.260992 MB
+Online Communication: 5.278663 MB
+623.105238ms
+n = 6
+Network Mode: LAN
+Input Sizes: [20 20 20 20 20 20]
+Data Preparation Time: 39.400617ms
+ver phase start
+ver time: 302.260228ms
+inter phase start
+inter time: 421.145133ms
+Offline Communication: 3.372233 MB
+Online Communication: 9.033397 MB
+773.294176ms
+n = 7
+Network Mode: LAN
+Input Sizes: [20 20 20 20 20 20 20]
+Data Preparation Time: 38.618687ms
+ver phase start
+ver time: 387.718863ms
+inter phase start
+inter time: 522.185684ms
+Offline Communication: 4.703154 MB
+Online Communication: 14.234132 MB
+976.075695ms
+n = 8
+Network Mode: LAN
+Input Sizes: [20 20 20 20 20 20 20 20]
+Data Preparation Time: 50.486411ms
+ver phase start
+ver time: 458.437899ms
+inter phase start
+inter time: 567.800068ms
+Offline Communication: 6.253799 MB
+Online Communication: 21.114895 MB
+1.105775368s
+n = 9
+Network Mode: LAN
+Input Sizes: [20 20 20 20 20 20 20 20 20]
+Data Preparation Time: 53.488044ms
+ver phase start
+ver time: 537.068828ms
+inter phase start
+inter time: 643.256655ms
+Offline Communication: 8.024174 MB
+Online Communication: 29.910052 MB
+1.247565192s
+n = 10
+Network Mode: LAN
+Input Sizes: [20 20 20 20 20 20 20 20 20 20]
+Data Preparation Time: 58.565596ms
+ver phase start
+ver time: 652.476068ms
+inter phase start
+inter time: 723.446524ms
+Offline Communication: 10.014014 MB
+Online Communication: 40.854402 MB
+1.449310765s
+n = 3
+Network Mode: LAN
+Input Sizes: [50 50 50]
+Data Preparation Time: 35.627388ms
+ver phase start
+ver time: 194.67463ms
+inter phase start
+inter time: 390.605551ms
+Offline Communication: 4.215326 MB
+Online Communication: 4.933879 MB
+629.497676ms
+n = 4
+Network Mode: LAN
+Input Sizes: [50 50 50 50]
+Data Preparation Time: 45.531052ms
+ver phase start
+ver time: 288.785937ms
+inter phase start
+inter time: 435.270781ms
+Offline Communication: 8.366390 MB
+Online Communication: 11.915742 MB
+777.548997ms
+n = 5
+Network Mode: LAN
+Input Sizes: [50 50 50 50 50]
+Data Preparation Time: 60.707593ms
+ver phase start
+ver time: 438.530723ms
+inter phase start
+inter time: 600.602574ms
+Offline Communication: 13.890650 MB
+Online Communication: 23.445503 MB
+1.108941024s
+n = 6
+Network Mode: LAN
+Input Sizes: [50 50 50 50 50 50]
+Data Preparation Time: 62.679562ms
+ver phase start
+ver time: 573.807074ms
+inter phase start
+inter time: 783.926439ms
+Offline Communication: 20.788036 MB
+Online Communication: 40.658809 MB
+1.430639759s
+n = 7
+Network Mode: LAN
+Input Sizes: [50 50 50 50 50 50 50]
+Data Preparation Time: 78.293664ms
+ver phase start
+ver time: 752.68541ms
+inter phase start
+inter time: 983.389274ms
+Offline Communication: 29.058521 MB
+Online Communication: 64.689904 MB
+1.825770862s
+n = 8
+Network Mode: LAN
+Input Sizes: [50 50 50 50 50 50 50 50]
+Data Preparation Time: 74.16728ms
+ver phase start
+ver time: 926.520512ms
+inter phase start
+inter time: 1.181464485s
+Offline Communication: 38.701811 MB
+Online Communication: 96.674720 MB
+2.197409821s
+n = 9
+Network Mode: LAN
+Input Sizes: [50 50 50 50 50 50 50 50 50]
+Data Preparation Time: 88.310238ms
+ver phase start
+ver time: 1.129882545s
+inter phase start
+inter time: 1.437425283s
+Offline Communication: 49.718302 MB
+Online Communication: 137.747567 MB
+2.679796744s
+n = 10
+Network Mode: LAN
+Input Sizes: [50 50 50 50 50 50 50 50 50 50]
+Data Preparation Time: 76.987531ms
+ver phase start
+ver time: 1.365797117s
+inter phase start
+inter time: 1.665581752s
+Offline Communication: 62.107869 MB
+Online Communication: 189.044146 MB
+3.123167473s
+n = 3
+Network Mode: LAN
+Input Sizes: [100 100 100]
+Data Preparation Time: 53.335572ms
+ver phase start
+ver time: 297.645863ms
+inter phase start
+inter time: 718.383513ms
+Offline Communication: 16.668925 MB
+Online Communication: 16.579062 MB
+1.077365069s
+n = 4
+Network Mode: LAN
+Input Sizes: [100 100 100 100]
+Data Preparation Time: 63.597695ms
+ver phase start
+ver time: 494.344861ms
+inter phase start
+inter time: 1.155519972s
+Offline Communication: 33.209620 MB
+Online Communication: 40.764060 MB
+1.72142833s
+n = 5
+Network Mode: LAN
+Input Sizes: [100 100 100 100 100]
+Data Preparation Time: 81.398666ms
+ver phase start
+ver time: 724.701429ms
+inter phase start
+inter time: 1.623299628s
+Offline Communication: 55.242307 MB
+Online Communication: 81.063381 MB
+2.442535283s
+n = 6
+Network Mode: LAN
+Input Sizes: [100 100 100 100 100 100]
+Data Preparation Time: 68.972631ms
+ver phase start
+ver time: 1.002406238s
+inter phase start
+inter time: 2.211406919s
+Offline Communication: 82.767542 MB
+Online Communication: 141.577278 MB
+3.297222406s
+n = 7
+Network Mode: LAN
+Input Sizes: [100 100 100 100 100 100 100]
+Data Preparation Time: 74.107575ms
+ver phase start
+ver time: 1.327521419s
+inter phase start
+inter time: 2.898761381s
+Offline Communication: 115.785213 MB
+Online Communication: 226.406301 MB
+4.316404114s
+n = 8
+Network Mode: LAN
+Input Sizes: [100 100 100 100 100 100 100 100]
+Data Preparation Time: 78.56857ms
+ver phase start
+ver time: 1.711792216s
+inter phase start
+inter time: 3.634801064s
+Offline Communication: 154.294593 MB
+Online Communication: 339.653949 MB
+5.43782415s
+n = 9
+Network Mode: LAN
+Input Sizes: [100 100 100 100 100 100 100 100 100]
+Data Preparation Time: 87.215825ms
+ver phase start
+ver time: 2.127904385s
+inter phase start
+inter time: 4.517188243s
+Offline Communication: 198.296278 MB
+Online Communication: 485.416842 MB
+6.746127377s
+n = 10
+Network Mode: LAN
+Input Sizes: [100 100 100 100 100 100 100 100 100 100]
+Data Preparation Time: 80.661986ms
+ver phase start
+ver time: 2.608479625s
+inter phase start
+inter time: 5.52191462s
+Offline Communication: 247.790517 MB
+Online Communication: 667.798822 MB
+8.229452342s
+n = 3
+Network Mode: LAN
+Input Sizes: [200 200 200]
+Data Preparation Time: 73.265002ms
+ver phase start
+ver time: 526.938722ms
+inter phase start
+inter time: 1.835463934s
+Offline Communication: 66.291029 MB
+Online Communication: 60.007887 MB
+2.44245735s
+n = 4
+Network Mode: LAN
+Input Sizes: [200 200 200 200]
+Data Preparation Time: 70.72854ms
+ver phase start
+ver time: 884.75423ms
+inter phase start
+inter time: 3.315137001s
+Offline Communication: 132.326167 MB
+Online Communication: 149.264117 MB
+4.278604086s
+n = 5
+Network Mode: LAN
+Input Sizes: [200 200 200 200 200]
+Data Preparation Time: 92.744709ms
+ver phase start
+ver time: 1.350811257s
+inter phase start
+inter time: 5.089173145s
+Offline Communication: 220.329284 MB
+Online Communication: 298.819381 MB
+6.548480648s
+n = 6
+Network Mode: LAN
+Input Sizes: [200 200 200 200 200 200]
+Data Preparation Time: 104.812368ms
+ver phase start
+ver time: 1.903916724s
+inter phase start
+inter time: 7.138407437s
+Offline Communication: 330.301720 MB
+Online Communication: 524.197650 MB
+9.166526961s
+n = 7
+Network Mode: LAN
+Input Sizes: [200 200 200 200 200 200 200]
+Data Preparation Time: 91.986593ms
+ver phase start
+ver time: 2.55528411s
+inter phase start
+inter time: 9.513578678s
+Offline Communication: 462.243254 MB
+Online Communication: 840.927120 MB
+12.172311831s
+n = 8
+Network Mode: LAN
+Input Sizes: [200 200 200 200 200 200 200 200]
+Data Preparation Time: 129.505228ms
+ver phase start
+ver time: 3.3104147s
+inter phase start
+inter time: 12.454307216s
+Offline Communication: 616.153919 MB
+Online Communication: 1264.528075 MB
+15.913193342s
+n = 9
+Network Mode: LAN
+Input Sizes: [200 200 200 200 200 200 200 200 200]
+Data Preparation Time: 100.403327ms
+ver phase start
+ver time: 4.174663767s
+inter phase start
+inter time: 15.897234224s
+Offline Communication: 792.032915 MB
+Online Communication: 1810.528795 MB
+20.186052291s
+n = 10
+Network Mode: LAN
+Input Sizes: [200 200 200 200 200 200 200 200 200 200]
+Data Preparation Time: 133.455888ms
+ver phase start
+ver time: 5.125275906s
+inter phase start
+inter time: 19.633772771s
+Offline Communication: 989.881216 MB
+Online Communication: 2494.452776 MB
+24.907254769s
+n = 3
+Network Mode: LAN
+Input Sizes: [500 500 500]
+Data Preparation Time: 68.008335ms
+ver phase start
+ver time: 1.229394631s
+inter phase start
+inter time: 9.226355823s
+Offline Communication: 412.877427 MB
+Online Communication: 351.398969 MB
+10.530615267s
+n = 4
+Network Mode: LAN
+Input Sizes: [500 500 500 500]
+Data Preparation Time: 122.113711ms
+ver phase start
+ver time: 2.133380553s
+inter phase start
+inter time: 17.053400294s
+Offline Communication: 825.113622 MB
+Online Communication: 881.187355 MB
+19.316833773s
+n = 5
+Network Mode: LAN
+Input Sizes: [500 500 500 500 500]
+Data Preparation Time: 143.771373ms
+ver phase start
+ver time: 3.311233943s
+inter phase start
+inter time: 27.261991713s
+Offline Communication: 1374.657598 MB
+Online Communication: 1772.260126 MB
+30.726205079s
+n = 6
+Network Mode: LAN
+Input Sizes: [500 500 500 500 500 500]
+Data Preparation Time: 211.859839ms
+ver phase start
+ver time: 4.602756489s
+inter phase start
+inter time: 39.610918685s
+Offline Communication: 2061.504264 MB
+Online Communication: 3118.349421 MB
+44.435846932s
+n = 7
+Network Mode: LAN
+Input Sizes: [500 500 500 500 500 500 500]
+Data Preparation Time: 174.398479ms
+ver phase start
+ver time: 6.194315508s
+inter phase start
+inter time: 54.052570201s
+Offline Communication: 2885.657247 MB
+Online Communication: 5013.186175 MB
+1m0.432653439s
+n = 8
+Network Mode: LAN
+Input Sizes: [500 500 500 500 500 500 500 500]
+Data Preparation Time: 205.586996ms
+ver phase start
+ver time: 8.138399075s
+inter phase start
+inter time: 1m10.945763049s
+Offline Communication: 3847.116261 MB
+Online Communication: 7550.519309 MB
+1m19.302290753s
+n = 9
+Network Mode: LAN
+Input Sizes: [500 500 500 500 500 500 500 500 500]
+Data Preparation Time: 228.924668ms
+ver phase start
+ver time: 10.182006423s
+inter phase start
+inter time: 1m30.088815708s
+Offline Communication: 4945.878635 MB
+Online Communication: 10824.061207 MB
+1m40.513505887s
+n = 10
+Network Mode: LAN
+Input Sizes: [500 500 500 500 500 500 500 500 500 500]
+Data Preparation Time: 249.382166ms
+ver phase start
+ver time: 12.523503492s
+inter phase start
+inter time: 1m52.304829104s
+Offline Communication: 6181.948356 MB
+Online Communication: 14927.568030 MB
+2m5.092575792s
+n = 3
+Network Mode: LAN
+Input Sizes: [1000 1000 1000]
+Data Preparation Time: 117.76211ms
+ver phase start
+ver time: 2.352447055s
+inter phase start
+inter time: 32.535475274s
+Offline Communication: 1649.587679 MB
+Online Communication: 1374.068424 MB
+35.014327482s
+n = 4
+Network Mode: LAN
+Input Sizes: [1000 1000 1000 1000]
+Data Preparation Time: 231.436716ms
+ver phase start
+ver time: 4.116181771s
+inter phase start
+inter time: 1m2.325464992s
+Offline Communication: 3297.892533 MB
+Online Communication: 3455.809747 MB
+1m6.6858457s
+n = 5
+Network Mode: LAN
+Input Sizes: [1000 1000 1000 1000 1000]
+Data Preparation Time: 230.504838ms
+ver phase start
+ver time: 6.348396652s
+inter phase start
+inter time: 1m41.049791051s
+Offline Communication: 5495.420809 MB
+Online Communication: 6961.898979 MB
+1m47.640655532s
+n = 6
+Network Mode: LAN
+Input Sizes: [1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 291.184437ms
+ver phase start
+ver time: 9.138524276s
+inter phase start
+inter time: 2m28.701241531s
+Offline Communication: 8242.171413 MB
+Online Communication: 12262.883354 MB
+2m38.155798803s
+n = 7
+Network Mode: LAN
+Input Sizes: [1000 1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 340.234114ms
+ver phase start
+ver time: 12.323124334s
+inter phase start
+inter time: 3m26.115479968s
+Offline Communication: 11538.147859 MB
+Online Communication: 19729.304340 MB
+3m38.804209248s
+n = 8
+Network Mode: LAN
+Input Sizes: [1000 1000 1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 399.799887ms
+ver phase start
+ver time: 15.88003487s
+inter phase start
+inter time: 4m32.260258125s
+Offline Communication: 15383.339219 MB
+Online Communication: 29731.691668 MB
+4m48.566226434s
+n = 9
+Network Mode: LAN
+Input Sizes: [1000 1000 1000 1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 484.946812ms
+ver phase start
+ver time: 20.033896065s
+inter phase start
+inter time: 5m48.011440651s
+Offline Communication: 19777.758715 MB
+Online Communication: 42640.613109 MB
+6m8.559215901s
+n = 10
+Network Mode: LAN
+Input Sizes: [1000 1000 1000 1000 1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 555.82942ms
+ver phase start
+ver time: 24.686187025s
+inter phase start
+inter time: 7m13.98668056s
+Offline Communication: 24721.391082 MB
+Online Communication: 58826.584752 MB
+7m39.245953516s
