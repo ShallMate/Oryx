@@ -207,6 +207,14 @@ func (system *PIISystem) GetCommunication() (float64, float64) {
 
 func PIIProtocol(intersize int, inputsize []int, mode int, isWAN bool, bandwidth float64) *PIISystem {
 	partynum := len(inputsize)
+	fmt.Printf("n = %d\n", partynum)
+	if isWAN {
+		fmt.Printf("Network Mode: WAN\n")
+		fmt.Printf("Bandwidth: %.2f Mbps\n", bandwidth)
+	} else {
+		fmt.Printf("Network Mode: LAN\n")
+	}
+	fmt.Printf("Input Sizes: %v\n", inputsize)
 	piisystem := PiiInitSystem(partynum, isWAN, bandwidth)
 	if mode == 0 && partynum == 2 {
 		timepoint := time.Now()

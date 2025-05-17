@@ -1,0 +1,3727 @@
+nohup: ignoring input
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [x] on F_p 262144 times took 1.620097344s, averaging 6.18µs
+The communication is 16.000213623047 MB, averaging 0.000061035971 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [x] on F_p 262144 times took 4.060430438s, averaging 15.489µs
+The communication is 48.000305175781 MB, averaging 0.000183106633 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [x] on F_p 262144 times took 8.072608711s, averaging 30.794µs
+The communication is 96.000396728516 MB, averaging 0.000366212451 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [x] on F_p 262144 times took 13.442281412s, averaging 51.278µs
+The communication is 160.000488281250 MB, averaging 0.000610353425 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [x] on F_p 262144 times took 20.153709495s, averaging 76.88µs
+The communication is 240.000579833984 MB, averaging 0.000915529556 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [x] on F_p 262144 times took 28.205361894s, averaging 107.594µs
+The communication is 336.000670433044 MB, averaging 0.001281740839 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [x] on F_p 262144 times took 37.602355733s, averaging 143.441µs
+The communication is 448.000755310059 MB, averaging 0.001708987256 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [x] on F_p 262144 times took 48.33984698s, averaging 184.401µs
+The communication is 576.000854492188 MB, averaging 0.002197268885 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [x] on F_p 262144 times took 1m0.419132994s, averaging 230.48µs
+The communication is 720.000946044922 MB, averaging 0.002746585640 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [x] on F_p 262144 times took 784.320281ms, averaging 2.991µs
+The communication is 16.000213623047 MB, averaging 0.000061035971 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [x] on F_p 262144 times took 1.127866713s, averaging 4.302µs
+The communication is 48.000305175781 MB, averaging 0.000183106633 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [x] on F_p 262144 times took 1.770735417s, averaging 6.754µs
+The communication is 96.000396728516 MB, averaging 0.000366212451 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [x] on F_p 262144 times took 2.775558888s, averaging 10.587µs
+The communication is 160.000488281250 MB, averaging 0.000610353425 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [x] on F_p 262144 times took 4.09930623s, averaging 15.637µs
+The communication is 240.000579833984 MB, averaging 0.000915529556 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [x] on F_p 262144 times took 5.658427302s, averaging 21.585µs
+The communication is 336.000671386719 MB, averaging 0.001281740842 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [x] on F_p 262144 times took 7.536927719s, averaging 28.751µs
+The communication is 448.000762939453 MB, averaging 0.001708987285 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [x] on F_p 262144 times took 9.684334209s, averaging 36.942µs
+The communication is 576.000854492188 MB, averaging 0.002197268885 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [x] on F_p 262144 times took 12.100991359s, averaging 46.161µs
+The communication is 720.000946044922 MB, averaging 0.002746585640 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [x] on F_p 262144 times took 6.802927314s, averaging 25.951µs
+The communication is 79.997509956360 MB, averaging 0.000305166282 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [x] on F_p 262144 times took 20.078741427s, averaging 76.594µs
+The communication is 238.991907119751 MB, averaging 0.000911681775 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [x] on F_p 262144 times took 40.280735197s, averaging 153.658µs
+The communication is 479.984349250793 MB, averaging 0.001830994985 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [x] on F_p 262144 times took 1m7.14113702s, averaging 256.123µs
+The communication is 799.973045349121 MB, averaging 0.003051654989 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [x] on F_p 262144 times took 1m40.683222235s, averaging 384.076µs
+The communication is 1199.959147453308 MB, averaging 0.004577480879 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [x] on F_p 262144 times took 2m20.811268529s, averaging 537.152µs
+The communication is 1678.443290710449 MB, averaging 0.006402753032 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [x] on F_p 262144 times took 3m7.919855442s, averaging 716.857µs
+The communication is 2239.923224449158 MB, averaging 0.008544629000 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [x] on F_p 262144 times took 4m1.605885947s, averaging 921.653µs
+The communication is 2879.901275634766 MB, averaging 0.010985951521 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [x] on F_p 262144 times took 5m2.001914401s, averaging 1.152045ms
+The communication is 3599.875744819641 MB, averaging 0.013732436160 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [x] on F_p 262144 times took 2.102531197s, averaging 8.02µs
+The communication is 79.997544288635 MB, averaging 0.000305166413 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [x] on F_p 262144 times took 4.264762387s, averaging 16.268µs
+The communication is 239.992012023926 MB, averaging 0.000915496872 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [x] on F_p 262144 times took 8.166568806s, averaging 31.152µs
+The communication is 479.983831405640 MB, averaging 0.001830993009 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [x] on F_p 262144 times took 13.47051108s, averaging 51.385µs
+The communication is 799.973499298096 MB, averaging 0.003051656720 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [x] on F_p 262144 times took 20.167946398s, averaging 76.934µs
+The communication is 1199.959815025330 MB, averaging 0.004577483425 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [x] on F_p 262144 times took 28.2049371s, averaging 107.593µs
+The communication is 1678.443347930908 MB, averaging 0.006402753250 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [x] on F_p 262144 times took 37.644816417s, averaging 143.603µs
+The communication is 2238.172374725342 MB, averaging 0.008537950038 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [x] on F_p 262144 times took 48.303122779s, averaging 184.261µs
+The communication is 2877.901588439941 MB, averaging 0.010978323320 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [x] on F_p 262144 times took 1m0.444288483s, averaging 230.576µs
+The communication is 3599.877736091614 MB, averaging 0.013732443756 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 229.148734ms, averaging 874ns
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 479.272668ms, averaging 1.828µs
+The communication is 0.000608444214 MB, averaging 0.000000002321 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 684.405872ms, averaging 2.61µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 767.220133ms, averaging 2.926µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 854.677965ms, averaging 3.26µs
+The communication is 0.001159667969 MB, averaging 0.000000004424 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 906.068918ms, averaging 3.456µs
+The communication is 0.001342773438 MB, averaging 0.000000005122 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 975.379295ms, averaging 3.72µs
+The communication is 0.001525878906 MB, averaging 0.000000005821 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 1.027682141s, averaging 3.92µs
+The communication is 0.001707077026 MB, averaging 0.000000006512 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 1.031329808s, averaging 3.934µs
+The communication is 0.001892089844 MB, averaging 0.000000007218 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 298.079624ms, averaging 1.137µs
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 499.919527ms, averaging 1.907µs
+The communication is 0.000609397888 MB, averaging 0.000000002325 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 601.423088ms, averaging 2.294µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 700.546167ms, averaging 2.672µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 873.548503ms, averaging 3.332µs
+The communication is 0.001159667969 MB, averaging 0.000000004424 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 956.998446ms, averaging 3.65µs
+The communication is 0.001342773438 MB, averaging 0.000000005122 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 1.00465926s, averaging 3.832µs
+The communication is 0.001524925232 MB, averaging 0.000000005817 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 896.93813ms, averaging 3.421µs
+The communication is 0.001708984375 MB, averaging 0.000000006519 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] + [y] on F_p 262144 times took 921.919726ms, averaging 3.516µs
+The communication is 0.001891136169 MB, averaging 0.000000007214 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 177.474585ms, averaging 677ns
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 307.581919ms, averaging 1.173µs
+The communication is 0.000610351562 MB, averaging 0.000000002328 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 530.691447ms, averaging 2.024µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 606.031844ms, averaging 2.311µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 850.578547ms, averaging 3.244µs
+The communication is 0.001159667969 MB, averaging 0.000000004424 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 758.9553ms, averaging 2.895µs
+The communication is 0.001342773438 MB, averaging 0.000000005122 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 932.660772ms, averaging 3.557µs
+The communication is 0.001525878906 MB, averaging 0.000000005821 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 947.606462ms, averaging 3.614µs
+The communication is 0.001708984375 MB, averaging 0.000000006519 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 1.082940669s, averaging 4.131µs
+The communication is 0.001892089844 MB, averaging 0.000000007218 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 178.214881ms, averaging 679ns
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 350.786921ms, averaging 1.338µs
+The communication is 0.000610351562 MB, averaging 0.000000002328 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 516.146651ms, averaging 1.968µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 518.914363ms, averaging 1.979µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 692.23623ms, averaging 2.64µs
+The communication is 0.001159667969 MB, averaging 0.000000004424 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 849.58902ms, averaging 3.24µs
+The communication is 0.001340866089 MB, averaging 0.000000005115 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 916.653368ms, averaging 3.496µs
+The communication is 0.001525878906 MB, averaging 0.000000005821 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 965.627205ms, averaging 3.683µs
+The communication is 0.001708984375 MB, averaging 0.000000006519 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] - [y] on F_p 262144 times took 908.689873ms, averaging 3.466µs
+The communication is 0.001892089844 MB, averaging 0.000000007218 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * y on F_p 262144 times took 590.64515ms, averaging 2.253µs
+The communication is 0.000213623047 MB, averaging 0.000000000815 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * y on F_p 262144 times took 772.122644ms, averaging 2.945µs
+The communication is 0.000305175781 MB, averaging 0.000000001164 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * y on F_p 262144 times took 994.838692ms, averaging 3.795µs
+The communication is 0.000396728516 MB, averaging 0.000000001513 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * y on F_p 262144 times took 949.700517ms, averaging 3.622µs
+The communication is 0.000488281250 MB, averaging 0.000000001863 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.062009784s, averaging 4.051µs
+The communication is 0.000579833984 MB, averaging 0.000000002212 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.1299969s, averaging 4.31µs
+The communication is 0.000671386719 MB, averaging 0.000000002561 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.201612439s, averaging 4.583µs
+The communication is 0.000762939453 MB, averaging 0.000000002910 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.353011995s, averaging 5.161µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.302500973s, averaging 4.968µs
+The communication is 0.000946044922 MB, averaging 0.000000003609 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * y on F_p 262144 times took 545.782952ms, averaging 2.081µs
+The communication is 0.000213623047 MB, averaging 0.000000000815 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * y on F_p 262144 times took 765.988804ms, averaging 2.922µs
+The communication is 0.000305175781 MB, averaging 0.000000001164 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * y on F_p 262144 times took 828.575296ms, averaging 3.16µs
+The communication is 0.000396728516 MB, averaging 0.000000001513 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.073028922s, averaging 4.093µs
+The communication is 0.000488281250 MB, averaging 0.000000001863 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * y on F_p 262144 times took 989.537317ms, averaging 3.774µs
+The communication is 0.000579833984 MB, averaging 0.000000002212 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.096534979s, averaging 4.182µs
+The communication is 0.000671386719 MB, averaging 0.000000002561 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.176190766s, averaging 4.486µs
+The communication is 0.000762939453 MB, averaging 0.000000002910 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.271613196s, averaging 4.85µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * y on F_p 262144 times took 1.418592343s, averaging 5.411µs
+The communication is 0.000946044922 MB, averaging 0.000000003609 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 1.255262377s, averaging 76.615µs
+The communication is 14.497974395752 MB, averaging 0.000884886133 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 2.076235977s, averaging 126.723µs
+The communication is 24.496318817139 MB, averaging 0.001495136647 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 3.142918271s, averaging 191.828µs
+The communication is 36.494540214539 MB, averaging 0.002227449964 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 4.263352959s, averaging 260.214µs
+The communication is 50.492116928101 MB, averaging 0.003081794246 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 5.651111054s, averaging 344.916µs
+The communication is 66.489845275879 MB, averaging 0.004058218095 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 7.10787371s, averaging 433.83µs
+The communication is 84.486961364746 MB, averaging 0.005156674888 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 8.785558898s, averaging 536.227µs
+The communication is 104.483324050903 MB, averaging 0.006377156009 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 10.641511924s, averaging 649.506µs
+The communication is 126.479525566101 MB, averaging 0.007719697605 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 12.659341931s, averaging 772.664µs
+The communication is 150.475866317749 MB, averaging 0.009184318013 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 560.254314ms, averaging 34.195µs
+The communication is 14.497846603394 MB, averaging 0.000884878333 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 696.643178ms, averaging 42.519µs
+The communication is 24.496400833130 MB, averaging 0.001495141652 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 901.231603ms, averaging 55.006µs
+The communication is 36.494523048401 MB, averaging 0.002227448917 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 1.220188963s, averaging 74.474µs
+The communication is 50.492092132568 MB, averaging 0.003081792733 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 1.322773532s, averaging 80.735µs
+The communication is 66.489663124084 MB, averaging 0.004058206978 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 1.802458656s, averaging 110.013µs
+The communication is 84.486463546753 MB, averaging 0.005156644504 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 2.044015787s, averaging 124.756µs
+The communication is 104.484303474426 MB, averaging 0.006377215788 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 2.301226073s, averaging 140.455µs
+The communication is 126.479378700256 MB, averaging 0.007719688641 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x] * [y] on F_p 16384 times took 2.636356164s, averaging 160.91µs
+The communication is 150.475439071655 MB, averaging 0.009184291936 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 3.622379232s, averaging 55.273µs
+The communication is 41.993016242981 MB, averaging 0.000640762577 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 5.759449317s, averaging 87.882µs
+The communication is 67.988505363464 MB, averaging 0.001037422262 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 8.256447113s, averaging 125.983µs
+The communication is 97.983803749084 MB, averaging 0.001495114193 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 11.092064064s, averaging 169.251µs
+The communication is 131.977607727051 MB, averaging 0.002013818477 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 14.278802163s, averaging 217.877µs
+The communication is 169.970890045166 MB, averaging 0.002593549958 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 17.811686569s, averaging 271.784µs
+The communication is 211.964242935181 MB, averaging 0.003234317672 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 21.663909137s, averaging 330.565µs
+The communication is 257.956647872925 MB, averaging 0.003936106077 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 25.854433169s, averaging 394.507µs
+The communication is 307.948723793030 MB, averaging 0.004698924618 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 30.417175999s, averaging 464.129µs
+The communication is 361.937903404236 MB, averaging 0.005522734122 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 1.454720201s, averaging 22.197µs
+The communication is 41.992860794067 MB, averaging 0.000640760205 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 1.911186824s, averaging 29.162µs
+The communication is 67.988596916199 MB, averaging 0.001037423659 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 2.412772226s, averaging 36.815µs
+The communication is 97.983225822449 MB, averaging 0.001495105374 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 3.169358668s, averaging 48.36µs
+The communication is 131.977900505066 MB, averaging 0.002013822945 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 3.69505973s, averaging 56.382µs
+The communication is 169.971117019653 MB, averaging 0.002593553421 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 4.181157977s, averaging 63.799µs
+The communication is 211.963227272034 MB, averaging 0.003234302174 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 4.947714521s, averaging 75.496µs
+The communication is 257.956402778625 MB, averaging 0.003936102337 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 5.763226384s, averaging 87.939µs
+The communication is 307.947875022888 MB, averaging 0.004698911667 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating [x]^2 on F_p 65536 times took 6.512353941s, averaging 99.37µs
+The communication is 361.938220024109 MB, averaging 0.005522738953 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially <x> on F_p 262144 times took 1.492035602s, averaging 5.691µs
+The communication is 16.000213623047 MB, averaging 0.000061035971 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially <x> on F_p 262144 times took 4.062146548s, averaging 15.495µs
+The communication is 48.000305175781 MB, averaging 0.000183106633 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially <x> on F_p 262144 times took 8.109894306s, averaging 30.936µs
+The communication is 96.000396728516 MB, averaging 0.000366212451 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially <x> on F_p 262144 times took 13.442791906s, averaging 51.28µs
+The communication is 160.000488281250 MB, averaging 0.000610353425 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially <x> on F_p 262144 times took 20.153435911s, averaging 76.879µs
+The communication is 240.000579833984 MB, averaging 0.000915529556 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially <x> on F_p 262144 times took 28.204959692s, averaging 107.593µs
+The communication is 336.000671386719 MB, averaging 0.001281740842 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially <x> on F_p 262144 times took 37.601603449s, averaging 143.438µs
+The communication is 448.000762939453 MB, averaging 0.001708987285 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially <x> on F_p 262144 times took 48.339594099s, averaging 184.4µs
+The communication is 576.000854492188 MB, averaging 0.002197268885 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially <x> on F_p 262144 times took 1m0.418973089s, averaging 230.48µs
+The communication is 720.000946044922 MB, averaging 0.002746585640 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially <x> on F_p 262144 times took 1.065959387s, averaging 4.066µs
+The communication is 16.000213623047 MB, averaging 0.000061035971 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially <x> on F_p 262144 times took 1.354750703s, averaging 5.167µs
+The communication is 48.000305175781 MB, averaging 0.000183106633 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially <x> on F_p 262144 times took 1.837164333s, averaging 7.008µs
+The communication is 96.000396728516 MB, averaging 0.000366212451 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially <x> on F_p 262144 times took 2.782327672s, averaging 10.613µs
+The communication is 160.000488281250 MB, averaging 0.000610353425 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially <x> on F_p 262144 times took 4.193631062s, averaging 15.997µs
+The communication is 240.000579833984 MB, averaging 0.000915529556 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially <x> on F_p 262144 times took 5.7130376s, averaging 21.793µs
+The communication is 336.000671386719 MB, averaging 0.001281740842 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially <x> on F_p 262144 times took 7.548915804s, averaging 28.796µs
+The communication is 448.000762939453 MB, averaging 0.001708987285 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially <x> on F_p 262144 times took 9.694715204s, averaging 36.982µs
+The communication is 576.000854492188 MB, averaging 0.002197268885 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially <x> on F_p 262144 times took 12.106856475s, averaging 46.183µs
+The communication is 720.000946044922 MB, averaging 0.002746585640 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening <x> on F_p 262144 times took 6.11465962s, averaging 23.325µs
+The communication is 63.997406005859 MB, averaging 0.000244130730 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening <x> on F_p 262144 times took 16.153338909s, averaging 61.62µs
+The communication is 191.991901397705 MB, averaging 0.000732390981 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening <x> on F_p 262144 times took 32.23480247s, averaging 122.966µs
+The communication is 383.984066009521 MB, averaging 0.001464782967 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening <x> on F_p 262144 times took 53.713660141s, averaging 204.901µs
+The communication is 639.972709655762 MB, averaging 0.002441302146 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening <x> on F_p 262144 times took 1m20.573155824s, averaging 307.362µs
+The communication is 959.959338188171 MB, averaging 0.003661954262 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening <x> on F_p 262144 times took 1m52.762279742s, averaging 430.153µs
+The communication is 1343.942197799683 MB, averaging 0.005126732627 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening <x> on F_p 262144 times took 2m30.33899033s, averaging 573.497µs
+The communication is 1791.923958778381 MB, averaging 0.006835647426 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening <x> on F_p 262144 times took 3m13.285885172s, averaging 737.327µs
+The communication is 2303.901542663574 MB, averaging 0.008788686915 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening <x> on F_p 262144 times took 4m1.605236836s, averaging 921.65µs
+The communication is 2879.877384185791 MB, averaging 0.010985860383 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening <x> on F_p 262144 times took 4.140198771s, averaging 15.793µs
+The communication is 63.997471809387 MB, averaging 0.000244130981 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening <x> on F_p 262144 times took 5.488139942s, averaging 20.935µs
+The communication is 191.992086410522 MB, averaging 0.000732391687 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening <x> on F_p 262144 times took 7.776367791s, averaging 29.664µs
+The communication is 383.984003067017 MB, averaging 0.001464782727 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening <x> on F_p 262144 times took 11.238520793s, averaging 42.871µs
+The communication is 639.972938537598 MB, averaging 0.002441303019 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening <x> on F_p 262144 times took 16.370766021s, averaging 62.449µs
+The communication is 959.959266662598 MB, averaging 0.003661953990 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening <x> on F_p 262144 times took 22.626027622s, averaging 86.311µs
+The communication is 1343.943233489990 MB, averaging 0.005126736578 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening <x> on F_p 262144 times took 30.117950949s, averaging 114.89µs
+The communication is 1791.923257827759 MB, averaging 0.006835644752 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening <x> on F_p 262144 times took 38.689591244s, averaging 147.589µs
+The communication is 2303.901603698730 MB, averaging 0.008788687148 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening <x> on F_p 262144 times took 48.362547579s, averaging 184.488µs
+The communication is 2879.877512931824 MB, averaging 0.010985860874 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 521.495352ms, averaging 1.989µs
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 849.865205ms, averaging 3.241µs
+The communication is 0.000609397888 MB, averaging 0.000000002325 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.075696392s, averaging 4.103µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.516354281s, averaging 5.784µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.230929134s, averaging 4.695µs
+The communication is 0.001159667969 MB, averaging 0.000000004424 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.57129294s, averaging 5.994µs
+The communication is 0.001342773438 MB, averaging 0.000000005122 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.699221864s, averaging 6.482µs
+The communication is 0.001525878906 MB, averaging 0.000000005821 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.993895673s, averaging 7.606µs
+The communication is 0.001708984375 MB, averaging 0.000000006519 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.712762411s, averaging 6.533µs
+The communication is 0.001892089844 MB, averaging 0.000000007218 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 586.776317ms, averaging 2.238µs
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 912.922023ms, averaging 3.482µs
+The communication is 0.000610351562 MB, averaging 0.000000002328 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 940.109133ms, averaging 3.586µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.484569823s, averaging 5.663µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.587487977s, averaging 6.055µs
+The communication is 0.001159667969 MB, averaging 0.000000004424 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.476639348s, averaging 5.632µs
+The communication is 0.001342773438 MB, averaging 0.000000005122 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.675603979s, averaging 6.391µs
+The communication is 0.001525878906 MB, averaging 0.000000005821 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 2.101757493s, averaging 8.017µs
+The communication is 0.001708984375 MB, averaging 0.000000006519 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> * <y> on F_p 262144 times took 1.936702766s, averaging 7.387µs
+The communication is 0.001892089844 MB, averaging 0.000000007218 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 1.771521213s, averaging 6.757µs
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 2.482371068s, averaging 9.469µs
+The communication is 0.000610351562 MB, averaging 0.000000002328 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 3.140250212s, averaging 11.979µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 3.809057051s, averaging 14.53µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 3.998725657s, averaging 15.253µs
+The communication is 0.001159667969 MB, averaging 0.000000004424 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 4.576637905s, averaging 17.458µs
+The communication is 0.001342773438 MB, averaging 0.000000005122 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 4.758606512s, averaging 18.152µs
+The communication is 0.001525878906 MB, averaging 0.000000005821 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 6.226804272s, averaging 23.753µs
+The communication is 0.001708030701 MB, averaging 0.000000006516 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 6.246762361s, averaging 23.829µs
+The communication is 0.001891136169 MB, averaging 0.000000007214 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 2.331081559s, averaging 8.892µs
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 2.65392687s, averaging 10.123µs
+The communication is 0.000610351562 MB, averaging 0.000000002328 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 3.32770581s, averaging 12.694µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 3.551636223s, averaging 13.548µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 3.92860321s, averaging 14.986µs
+The communication is 0.001158714294 MB, averaging 0.000000004420 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 4.882464309s, averaging 18.625µs
+The communication is 0.001342773438 MB, averaging 0.000000005122 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 4.791048013s, averaging 18.276µs
+The communication is 0.001525878906 MB, averaging 0.000000005821 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 5.477259539s, averaging 20.894µs
+The communication is 0.001708984375 MB, averaging 0.000000006519 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x> / <y> on F_p 262144 times took 6.134577968s, averaging 23.401µs
+The communication is 0.001892089844 MB, averaging 0.000000007218 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 4.272535565s, averaging 16.298µs
+The communication is 0.000213623047 MB, averaging 0.000000000815 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 6.240643343s, averaging 23.806µs
+The communication is 0.000305175781 MB, averaging 0.000000001164 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 7.180517948s, averaging 27.391µs
+The communication is 0.000396728516 MB, averaging 0.000000001513 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 9.835314536s, averaging 37.518µs
+The communication is 0.000488281250 MB, averaging 0.000000001863 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 10.455236585s, averaging 39.883µs
+The communication is 0.000579833984 MB, averaging 0.000000002212 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 11.767839971s, averaging 44.89µs
+The communication is 0.000671386719 MB, averaging 0.000000002561 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 14.397721213s, averaging 54.922µs
+The communication is 0.000762939453 MB, averaging 0.000000002910 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 15.759178719s, averaging 60.116µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 16.3614919s, averaging 62.414µs
+The communication is 0.000945091248 MB, averaging 0.000000003605 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 4.091425167s, averaging 15.607µs
+The communication is 0.000213623047 MB, averaging 0.000000000815 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 6.091283355s, averaging 23.236µs
+The communication is 0.000305175781 MB, averaging 0.000000001164 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 7.161038375s, averaging 27.317µs
+The communication is 0.000396728516 MB, averaging 0.000000001513 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 9.333184797s, averaging 35.603µs
+The communication is 0.000488281250 MB, averaging 0.000000001863 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 10.699816249s, averaging 40.816µs
+The communication is 0.000579833984 MB, averaging 0.000000002212 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 12.301254183s, averaging 46.925µs
+The communication is 0.000671386719 MB, averaging 0.000000002561 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 14.139137731s, averaging 53.936µs
+The communication is 0.000761985779 MB, averaging 0.000000002907 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 15.418476805s, averaging 58.816µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating y^[x] = <y^x> on F_p 262144 times took 17.523238401s, averaging 66.845µs
+The communication is 0.000946044922 MB, averaging 0.000000003609 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x>^y on F_p 262144 times took 4.641782807s, averaging 17.706µs
+The communication is 0.000213623047 MB, averaging 0.000000000815 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x>^y on F_p 262144 times took 6.312403531s, averaging 24.079µs
+The communication is 0.000305175781 MB, averaging 0.000000001164 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x>^y on F_p 262144 times took 7.751957632s, averaging 29.571µs
+The communication is 0.000396728516 MB, averaging 0.000000001513 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x>^y on F_p 262144 times took 9.240681027s, averaging 35.25µs
+The communication is 0.000488281250 MB, averaging 0.000000001863 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x>^y on F_p 262144 times took 10.682213369s, averaging 40.749µs
+The communication is 0.000579833984 MB, averaging 0.000000002212 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x>^y on F_p 262144 times took 11.6130601s, averaging 44.3µs
+The communication is 0.000671386719 MB, averaging 0.000000002561 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x>^y on F_p 262144 times took 14.361067309s, averaging 54.783µs
+The communication is 0.000762939453 MB, averaging 0.000000002910 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x>^y on F_p 262144 times took 15.528805171s, averaging 59.237µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Calculating <x>^y on F_p 262144 times took 18.04635649s, averaging 68.841µs
+The communication is 0.000946044922 MB, averaging 0.000000003609 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x>^y on F_p 262144 times took 7.344711123s, averaging 28.017µs
+The communication is 0.000212669373 MB, averaging 0.000000000811 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x>^y on F_p 262144 times took 5.914358006s, averaging 22.561µs
+The communication is 0.000305175781 MB, averaging 0.000000001164 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x>^y on F_p 262144 times took 7.367547951s, averaging 28.104µs
+The communication is 0.000396728516 MB, averaging 0.000000001513 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x>^y on F_p 262144 times took 9.217920105s, averaging 35.163µs
+The communication is 0.000488281250 MB, averaging 0.000000001863 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x>^y on F_p 262144 times took 10.828434271s, averaging 41.307µs
+The communication is 0.000579833984 MB, averaging 0.000000002212 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x>^y on F_p 262144 times took 11.548312491s, averaging 44.053µs
+The communication is 0.000671386719 MB, averaging 0.000000002561 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x>^y on F_p 262144 times took 14.252700923s, averaging 54.369µs
+The communication is 0.000762939453 MB, averaging 0.000000002910 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x>^y on F_p 262144 times took 15.245903568s, averaging 58.158µs
+The communication is 0.000853538513 MB, averaging 0.000000003256 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Calculating <x>^y on F_p 262144 times took 17.323924805s, averaging 66.085µs
+The communication is 0.000946044922 MB, averaging 0.000000003609 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 2.829794279s, averaging 10.794µs
+The communication is 32.000427246094 MB, averaging 0.000122071942 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 8.07740261s, averaging 30.812µs
+The communication is 96.000610351562 MB, averaging 0.000366213266 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 16.127337983s, averaging 61.52µs
+The communication is 192.000793457031 MB, averaging 0.000732424902 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 26.863854636s, averaging 102.477µs
+The communication is 320.000976562500 MB, averaging 0.001220706850 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 40.300826103s, averaging 153.735µs
+The communication is 480.001159667969 MB, averaging 0.001831059111 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 56.389302133s, averaging 215.108µs
+The communication is 672.001342773438 MB, averaging 0.002563481685 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 1m15.182764375s, averaging 286.799µs
+The communication is 896.001525878906 MB, averaging 0.003417974571 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 1m36.658419334s, averaging 368.722µs
+The communication is 1152.001708984375 MB, averaging 0.004394537769 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 2m0.628035557s, averaging 460.159µs
+The communication is 1437.751891136169 MB, averaging 0.005484588208 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 972.628599ms, averaging 3.71µs
+The communication is 32.000427246094 MB, averaging 0.000122071942 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 1.78163227s, averaging 6.796µs
+The communication is 96.000610351562 MB, averaging 0.000366213266 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 3.286353046s, averaging 12.536µs
+The communication is 192.000793457031 MB, averaging 0.000732424902 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 5.433604182s, averaging 20.727µs
+The communication is 320.000976562500 MB, averaging 0.001220706850 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 8.075142782s, averaging 30.804µs
+The communication is 480.001159667969 MB, averaging 0.001831059111 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 11.296048591s, averaging 43.091µs
+The communication is 672.001342773438 MB, averaging 0.002563481685 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 15.054073402s, averaging 57.426µs
+The communication is 896.001525878906 MB, averaging 0.003417974571 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 19.349274022s, averaging 73.811µs
+The communication is 1152.001708984375 MB, averaging 0.004394537769 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the ECC group G 262144 times took 24.18259478s, averaging 92.249µs
+The communication is 1440.001892089844 MB, averaging 0.005493171280 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the ECC group G 262144 times took 8.13906508s, averaging 31.048µs
+The communication is 95.997644424438 MB, averaging 0.000366201952 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the ECC group G 262144 times took 24.194572496s, averaging 92.294µs
+The communication is 287.992370605469 MB, averaging 0.001098603709 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the ECC group G 262144 times took 48.367475252s, averaging 184.507µs
+The communication is 575.984488487244 MB, averaging 0.002197206453 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the ECC group G 262144 times took 1m20.548769995s, averaging 307.269µs
+The communication is 959.972984313965 MB, averaging 0.003662006318 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the ECC group G 262144 times took 2m0.813427607s, averaging 460.866µs
+The communication is 1439.959808349609 MB, averaging 0.005493010744 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the ECC group G 262144 times took 2m49.119425477s, averaging 645.139µs
+The communication is 2015.944258689880 MB, averaging 0.007690217051 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the ECC group G 262144 times took 3m45.500254814s, averaging 860.215µs
+The communication is 2687.924220085144 MB, averaging 0.010253617173 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the ECC group G 262144 times took 4m49.924477496s, averaging 1.105974ms
+The communication is 3455.902389526367 MB, averaging 0.013183221396 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the ECC group G 262144 times took 6m2.210419759s, averaging 1.381723ms
+The communication is 4317.628071784973 MB, averaging 0.016470443999 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the ECC group G 262144 times took 5.388995877s, averaging 20.557µs
+The communication is 95.997682571411 MB, averaging 0.000366202097 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the ECC group G 262144 times took 7.518036726s, averaging 28.679µs
+The communication is 287.992179870605 MB, averaging 0.001098602981 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the ECC group G 262144 times took 10.14879203s, averaging 38.714µs
+The communication is 575.984414100647 MB, averaging 0.002197206170 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the ECC group G 262144 times took 16.206060164s, averaging 61.821µs
+The communication is 959.973632812500 MB, averaging 0.003662008792 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the ECC group G 262144 times took 24.191285896s, averaging 92.282µs
+The communication is 1437.459727287292 MB, averaging 0.005483473691 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the ECC group G 262144 times took 33.866905589s, averaging 129.191µs
+The communication is 2015.943120956421 MB, averaging 0.007690212711 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the ECC group G 262144 times took 45.139497066s, averaging 172.193µs
+The communication is 2687.924995422363 MB, averaging 0.010253620130 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the ECC group G 262144 times took 58.027894796s, averaging 221.358µs
+The communication is 3455.900993347168 MB, averaging 0.013183216070 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the ECC group G 262144 times took 1m12.507088755s, averaging 276.592µs
+The communication is 4319.878313064575 MB, averaging 0.016479027989 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 1.172603425s, averaging 4.473µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 1.558207297s, averaging 5.944µs
+The communication is 0.001219749451 MB, averaging 0.000000004653 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 2.096206594s, averaging 7.996µs
+The communication is 0.001586914062 MB, averaging 0.000000006054 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 2.447532385s, averaging 9.336µs
+The communication is 0.001953125000 MB, averaging 0.000000007451 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 3.02500699s, averaging 11.539µs
+The communication is 0.002319335938 MB, averaging 0.000000008848 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 3.465429376s, averaging 13.219µs
+The communication is 0.002685546875 MB, averaging 0.000000010245 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 3.81410201s, averaging 14.549µs
+The communication is 0.003051757812 MB, averaging 0.000000011642 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 5.299985141s, averaging 20.217µs
+The communication is 0.003417968750 MB, averaging 0.000000013039 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 6.379423057s, averaging 24.335µs
+The communication is 0.003784179688 MB, averaging 0.000000014435 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 1.255009103s, averaging 4.787µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 2.044213192s, averaging 7.798µs
+The communication is 0.001220703125 MB, averaging 0.000000004657 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 2.405405569s, averaging 9.175µs
+The communication is 0.001586914062 MB, averaging 0.000000006054 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 3.081895619s, averaging 11.756µs
+The communication is 0.001952171326 MB, averaging 0.000000007447 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 3.465985349s, averaging 13.221µs
+The communication is 0.002319335938 MB, averaging 0.000000008848 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 3.969367059s, averaging 15.141µs
+The communication is 0.002685546875 MB, averaging 0.000000010245 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 4.39580067s, averaging 16.768µs
+The communication is 0.003050804138 MB, averaging 0.000000011638 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 4.856463876s, averaging 18.525µs
+The communication is 0.003417015076 MB, averaging 0.000000013035 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the ECC group G 262144 times took 5.374045212s, averaging 20.5µs
+The communication is 0.003784179688 MB, averaging 0.000000014435 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 8.585268005s, averaging 32.75µs
+The communication is 95.988595008850 MB, averaging 0.000366167431 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 12.74082601s, averaging 48.602µs
+The communication is 143.982918739319 MB, averaging 0.000549251246 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 16.505006096s, averaging 62.961µs
+The communication is 191.977224349976 MB, averaging 0.000732334993 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 20.613223684s, averaging 78.633µs
+The communication is 239.970990180969 MB, averaging 0.000915416680 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 24.534145088s, averaging 93.59µs
+The communication is 287.965832710266 MB, averaging 0.001098502475 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 28.625694705s, averaging 109.198µs
+The communication is 335.959819793701 MB, averaging 0.001281585006 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 32.677908132s, averaging 124.656µs
+The communication is 383.954878807068 MB, averaging 0.001464671626 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 42.267397166s, averaging 161.237µs
+The communication is 431.948308944702 MB, averaging 0.001647752033 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 41.260271474s, averaging 157.395µs
+The communication is 479.942415237427 MB, averaging 0.001830835019 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 8.571349815s, averaging 32.697µs
+The communication is 95.988592147827 MB, averaging 0.000366167420 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 12.48986307s, averaging 47.645µs
+The communication is 143.983119964600 MB, averaging 0.000549252014 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 16.560503424s, averaging 63.173µs
+The communication is 191.976800918579 MB, averaging 0.000732333378 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 19.839279565s, averaging 75.68µs
+The communication is 239.971315383911 MB, averaging 0.000915417921 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 22.937099214s, averaging 87.498µs
+The communication is 287.966143608093 MB, averaging 0.001098503661 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 26.983633882s, averaging 102.934µs
+The communication is 335.960133552551 MB, averaging 0.001281586203 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 30.515651056s, averaging 116.407µs
+The communication is 383.954340934753 MB, averaging 0.001464669574 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 34.193911087s, averaging 130.439µs
+The communication is 431.949072837830 MB, averaging 0.001647754947 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the ECC group G 262144 times took 38.065291003s, averaging 145.207µs
+The communication is 479.942569732666 MB, averaging 0.001830835608 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 1.273101239s, averaging 4.856µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 1.735793521s, averaging 6.621µs
+The communication is 0.001220703125 MB, averaging 0.000000004657 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 2.141597712s, averaging 8.169µs
+The communication is 0.001586914062 MB, averaging 0.000000006054 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 2.922689925s, averaging 11.149µs
+The communication is 0.001953125000 MB, averaging 0.000000007451 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 3.30851532s, averaging 12.62µs
+The communication is 0.002319335938 MB, averaging 0.000000008848 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 3.934845231s, averaging 15.01µs
+The communication is 0.002685546875 MB, averaging 0.000000010245 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 4.189646154s, averaging 15.982µs
+The communication is 0.003051757812 MB, averaging 0.000000011642 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 4.734207925s, averaging 18.059µs
+The communication is 0.003417968750 MB, averaging 0.000000013039 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 5.12887183s, averaging 19.565µs
+The communication is 0.003784179688 MB, averaging 0.000000014435 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 1.420837673s, averaging 5.42µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 1.74181309s, averaging 6.644µs
+The communication is 0.001217842102 MB, averaging 0.000000004646 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 2.365906132s, averaging 9.025µs
+The communication is 0.001586914062 MB, averaging 0.000000006054 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 2.850402411s, averaging 10.873µs
+The communication is 0.001953125000 MB, averaging 0.000000007451 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 3.345567272s, averaging 12.762µs
+The communication is 0.002319335938 MB, averaging 0.000000008848 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 3.651870827s, averaging 13.93µs
+The communication is 0.002683639526 MB, averaging 0.000000010237 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 4.299404753s, averaging 16.4µs
+The communication is 0.003051757812 MB, averaging 0.000000011642 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 4.847427454s, averaging 18.491µs
+The communication is 0.003417968750 MB, averaging 0.000000013039 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the ECC group G 262144 times took 5.278691814s, averaging 20.136µs
+The communication is 0.003784179688 MB, averaging 0.000000014435 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 8.373037056s, averaging 31.94µs
+The communication is 95.988845825195 MB, averaging 0.000366168388 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 12.354105691s, averaging 47.127µs
+The communication is 143.982896804810 MB, averaging 0.000549251163 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 16.477737032s, averaging 62.857µs
+The communication is 191.977311134338 MB, averaging 0.000732335324 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 20.523191785s, averaging 78.289µs
+The communication is 239.971714973450 MB, averaging 0.000915419445 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 24.498026429s, averaging 93.452µs
+The communication is 287.965928077698 MB, averaging 0.001098502838 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 28.529268288s, averaging 108.83µs
+The communication is 335.960485458374 MB, averaging 0.001281587545 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 32.617440252s, averaging 124.425µs
+The communication is 383.954559326172 MB, averaging 0.001464670408 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 36.565591785s, averaging 139.486µs
+The communication is 431.948149681091 MB, averaging 0.001647751425 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 40.605448681s, averaging 154.897µs
+The communication is 479.943857192993 MB, averaging 0.001830840520 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 7.968826702s, averaging 30.398µs
+The communication is 95.988743782043 MB, averaging 0.000366167998 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 11.742972862s, averaging 44.795µs
+The communication is 143.982695579529 MB, averaging 0.000549250395 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 15.419133579s, averaging 58.819µs
+The communication is 191.977217674255 MB, averaging 0.000732334967 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 18.8497241s, averaging 71.905µs
+The communication is 239.971641540527 MB, averaging 0.000915419165 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 22.697513907s, averaging 86.584µs
+The communication is 287.966067314148 MB, averaging 0.001098503370 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 26.106001875s, averaging 99.586µs
+The communication is 335.959836959839 MB, averaging 0.001281585071 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 29.614207247s, averaging 112.969µs
+The communication is 383.954416275024 MB, averaging 0.001464669862 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 33.344256004s, averaging 127.198µs
+The communication is 431.948394775391 MB, averaging 0.001647752360 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the ECC group G 262144 times took 36.875868055s, averaging 140.67µs
+The communication is 479.942848205566 MB, averaging 0.001830836671 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 7.618944492s, averaging 29.063µs
+The communication is 0.000213623047 MB, averaging 0.000000000815 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 11.482288364s, averaging 43.801µs
+The communication is 0.000305175781 MB, averaging 0.000000001164 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 15.13227142s, averaging 57.725µs
+The communication is 0.000396728516 MB, averaging 0.000000001513 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 18.693614268s, averaging 71.31µs
+The communication is 0.000488281250 MB, averaging 0.000000001863 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 22.190287833s, averaging 84.649µs
+The communication is 0.000579833984 MB, averaging 0.000000002212 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 26.310886049s, averaging 100.368µs
+The communication is 0.000671386719 MB, averaging 0.000000002561 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 30.198937137s, averaging 115.199µs
+The communication is 0.000762939453 MB, averaging 0.000000002910 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 33.921497379s, averaging 129.4µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 38.080701363s, averaging 145.266µs
+The communication is 0.000946044922 MB, averaging 0.000000003609 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 7.38954993s, averaging 28.188µs
+The communication is 0.000213623047 MB, averaging 0.000000000815 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 11.156357649s, averaging 42.558µs
+The communication is 0.000305175781 MB, averaging 0.000000001164 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 14.983182405s, averaging 57.156µs
+The communication is 0.000396728516 MB, averaging 0.000000001513 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 18.992109673s, averaging 72.449µs
+The communication is 0.000488281250 MB, averaging 0.000000001863 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 22.491563495s, averaging 85.798µs
+The communication is 0.000579833984 MB, averaging 0.000000002212 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 26.143933893s, averaging 99.731µs
+The communication is 0.000671386719 MB, averaging 0.000000002561 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 30.730767965s, averaging 117.228µs
+The communication is 0.000762939453 MB, averaging 0.000000002910 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 33.566939185s, averaging 128.047µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the ECC group G 262144 times took 37.037215019s, averaging 141.285µs
+The communication is 0.000946044922 MB, averaging 0.000000003609 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 7.576731322s, averaging 28.902µs
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 11.123894071s, averaging 42.434µs
+The communication is 0.000610351562 MB, averaging 0.000000002328 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 14.387616436s, averaging 54.884µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 18.746612072s, averaging 71.512µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 23.662095069s, averaging 90.263µs
+The communication is 0.001159667969 MB, averaging 0.000000004424 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 26.23682909s, averaging 100.085µs
+The communication is 0.001342773438 MB, averaging 0.000000005122 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 29.485926311s, averaging 112.479µs
+The communication is 0.001525878906 MB, averaging 0.000000005821 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 32.578026421s, averaging 124.275µs
+The communication is 0.001708984375 MB, averaging 0.000000006519 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 36.042490746s, averaging 137.491µs
+The communication is 0.001892089844 MB, averaging 0.000000007218 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 7.784151402s, averaging 29.694µs
+The communication is 0.000427246094 MB, averaging 0.000000001630 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 11.090230426s, averaging 42.305µs
+The communication is 0.000610351562 MB, averaging 0.000000002328 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 15.269019056s, averaging 58.246µs
+The communication is 0.000793457031 MB, averaging 0.000000003027 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 18.415557246s, averaging 70.249µs
+The communication is 0.000976562500 MB, averaging 0.000000003725 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 22.560003203s, averaging 86.059µs
+The communication is 0.001159667969 MB, averaging 0.000000004424 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 25.726206601s, averaging 98.137µs
+The communication is 0.001342773438 MB, averaging 0.000000005122 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 30.010878333s, averaging 114.482µs
+The communication is 0.001525878906 MB, averaging 0.000000005821 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 33.273739682s, averaging 126.929µs
+The communication is 0.001708984375 MB, averaging 0.000000006519 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the ECC group G 262144 times took 36.690473542s, averaging 139.963µs
+The communication is 0.001892089844 MB, averaging 0.000000007218 MB
+In the WAN setting. The bandwidth is 100.00 Mbps
+n=2
+Computing [x]*[P] on the ECC group G 32768 times took 5.59916132s, averaging 170.872µs
+The communication is 23.997754096985 MB, averaging 0.000732353335 MB
+In the WAN setting. The bandwidth is 100.00 Mbps
+n=3
+Computing [x]*[P] on the ECC group G 32768 times took 8.359954533s, averaging 255.125µs
+The communication is 44.995283126831 MB, averaging 0.001373147068 MB
+In the WAN setting. The bandwidth is 100.00 Mbps
+n=4
+Computing [x]*[P] on the ECC group G 32768 times took 10.975853233s, averaging 334.956µs
+The communication is 71.992409706116 MB, averaging 0.002197033988 MB
+In the WAN setting. The bandwidth is 100.00 Mbps
+n=5
+Computing [x]*[P] on the ECC group G 32768 times took 13.781319914s, averaging 420.572µs
+The communication is 104.988298416138 MB, averaging 0.003203988599 MB
+In the WAN setting. The bandwidth is 100.00 Mbps
+n=6
+Computing [x]*[P] on the ECC group G 32768 times took 16.173510578s, averaging 493.576µs
+The communication is 143.983870506287 MB, averaging 0.004394039017 MB
+In the WAN setting. The bandwidth is 100.00 Mbps
+n=7
+Computing [x]*[P] on the ECC group G 32768 times took 18.852284472s, averaging 575.326µs
+The communication is 188.979283332825 MB, averaging 0.005767190043 MB
+In the WAN setting. The bandwidth is 100.00 Mbps
+n=8
+Computing [x]*[P] on the ECC group G 32768 times took 21.715935413s, averaging 662.717µs
+The communication is 239.973518371582 MB, averaging 0.007323410595 MB
+In the WAN setting. The bandwidth is 100.00 Mbps
+n=9
+Computing [x]*[P] on the ECC group G 32768 times took 25.321133244s, averaging 772.739µs
+The communication is 296.965450286865 MB, averaging 0.009062666330 MB
+In the WAN setting. The bandwidth is 100.00 Mbps
+n=10
+Computing [x]*[P] on the ECC group G 32768 times took 30.294867134s, averaging 924.525µs
+The communication is 359.958013534546 MB, averaging 0.010985046800 MB
+In the WAN setting. The bandwidth is 500.00 Mbps
+n=2
+Computing [x]*[P] on the ECC group G 32768 times took 5.508937483s, averaging 168.119µs
+The communication is 23.997720718384 MB, averaging 0.000732352317 MB
+In the WAN setting. The bandwidth is 500.00 Mbps
+n=3
+Computing [x]*[P] on the ECC group G 32768 times took 8.237943922s, averaging 251.402µs
+The communication is 44.995389938354 MB, averaging 0.001373150328 MB
+In the WAN setting. The bandwidth is 500.00 Mbps
+n=4
+Computing [x]*[P] on the ECC group G 32768 times took 10.744211864s, averaging 327.887µs
+The communication is 71.992438316345 MB, averaging 0.002197034861 MB
+In the WAN setting. The bandwidth is 500.00 Mbps
+n=5
+Computing [x]*[P] on the ECC group G 32768 times took 13.176818218s, averaging 402.124µs
+The communication is 104.988628387451 MB, averaging 0.003203998669 MB
+In the WAN setting. The bandwidth is 500.00 Mbps
+n=6
+Computing [x]*[P] on the ECC group G 32768 times took 15.891461185s, averaging 484.968µs
+The communication is 143.984162330627 MB, averaging 0.004394047923 MB
+In the WAN setting. The bandwidth is 500.00 Mbps
+n=7
+Computing [x]*[P] on the ECC group G 32768 times took 18.626902158s, averaging 568.447µs
+The communication is 188.978576660156 MB, averaging 0.005767168477 MB
+In the WAN setting. The bandwidth is 500.00 Mbps
+n=8
+Computing [x]*[P] on the ECC group G 32768 times took 20.499501593s, averaging 625.595µs
+The communication is 239.973310470581 MB, averaging 0.007323404250 MB
+In the WAN setting. The bandwidth is 500.00 Mbps
+n=9
+Computing [x]*[P] on the ECC group G 32768 times took 23.300795692s, averaging 711.083µs
+The communication is 296.965718269348 MB, averaging 0.009062674508 MB
+In the WAN setting. The bandwidth is 500.00 Mbps
+n=10
+Computing [x]*[P] on the ECC group G 32768 times took 25.777609447s, averaging 786.67µs
+The communication is 359.957519531250 MB, averaging 0.010985031724 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 2.715752412s, averaging 10.359µs
+The communication is 32.000427246094 MB, averaging 0.000122071942 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 8.073600776s, averaging 30.798µs
+The communication is 96.000610351562 MB, averaging 0.000366213266 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 16.125611303s, averaging 61.514µs
+The communication is 192.000793457031 MB, averaging 0.000732424902 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 26.864696824s, averaging 102.48µs
+The communication is 320.000976562500 MB, averaging 0.001220706850 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 40.287591466s, averaging 153.684µs
+The communication is 480.001159667969 MB, averaging 0.001831059111 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 56.390926248s, averaging 215.114µs
+The communication is 672.001342773438 MB, averaging 0.002563481685 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 1m15.182514875s, averaging 286.798µs
+The communication is 896.001525878906 MB, averaging 0.003417974571 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 1m36.658272338s, averaging 368.722µs
+The communication is 1152.001708984375 MB, averaging 0.004394537769 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 2m0.816289665s, averaging 460.877µs
+The communication is 1440.001892089844 MB, averaging 0.005493171280 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 791.373443ms, averaging 3.018µs
+The communication is 32.000427246094 MB, averaging 0.000122071942 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 1.68576503s, averaging 6.43µs
+The communication is 96.000610351562 MB, averaging 0.000366213266 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 3.242452961s, averaging 12.368µs
+The communication is 192.000793457031 MB, averaging 0.000732424902 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 5.389015523s, averaging 20.557µs
+The communication is 320.000976562500 MB, averaging 0.001220706850 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 8.073379401s, averaging 30.797µs
+The communication is 480.001159667969 MB, averaging 0.001831059111 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 11.295803433s, averaging 43.09µs
+The communication is 672.001342773438 MB, averaging 0.002563481685 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 15.053377608s, averaging 57.424µs
+The communication is 896.001525878906 MB, averaging 0.003417974571 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 19.347933344s, averaging 73.806µs
+The communication is 1152.001708984375 MB, averaging 0.004394537769 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_1 262144 times took 24.180200683s, averaging 92.24µs
+The communication is 1440.001892089844 MB, averaging 0.005493171280 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 8.089699107s, averaging 30.859µs
+The communication is 95.997674942017 MB, averaging 0.000366202068 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 24.183332662s, averaging 92.252µs
+The communication is 287.992315292358 MB, averaging 0.001098603498 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 48.342570513s, averaging 184.412µs
+The communication is 575.984251022339 MB, averaging 0.002197205547 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 1m20.552451254s, averaging 307.283µs
+The communication is 959.973613739014 MB, averaging 0.003662008719 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 2m0.819174573s, averaging 460.888µs
+The communication is 1439.960332870483 MB, averaging 0.005493012744 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 2m49.125329961s, averaging 645.161µs
+The communication is 2015.943904876709 MB, averaging 0.007690215702 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 3m45.504360223s, averaging 860.23µs
+The communication is 2687.924347877502 MB, averaging 0.010253617660 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 4m49.927254768s, averaging 1.105984ms
+The communication is 3455.901969909668 MB, averaging 0.013183219795 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 6m2.402780984s, averaging 1.382456ms
+The communication is 4319.876759529114 MB, averaging 0.016479022062 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 3.251461961s, averaging 12.403µs
+The communication is 95.997644424438 MB, averaging 0.000366201952 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 4.98245759s, averaging 19.006µs
+The communication is 287.992486953735 MB, averaging 0.001098604153 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 9.711504072s, averaging 37.046µs
+The communication is 575.983753204346 MB, averaging 0.002197203648 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 16.134940133s, averaging 61.549µs
+The communication is 959.973510742188 MB, averaging 0.003662008327 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 24.192273288s, averaging 92.286µs
+The communication is 1439.959450721741 MB, averaging 0.005493009379 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 33.856400852s, averaging 129.151µs
+The communication is 2015.944042205811 MB, averaging 0.007690216225 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 45.128967545s, averaging 172.153µs
+The communication is 2687.925249099731 MB, averaging 0.010253621098 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 58.010765794s, averaging 221.293µs
+The communication is 3455.901840209961 MB, averaging 0.013183219300 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_1 262144 times took 1m12.504838054s, averaging 276.584µs
+The communication is 4319.877789497375 MB, averaging 0.016479025991 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 262.124391ms, averaging 999ns
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 621.311543ms, averaging 2.37µs
+The communication is 0.001220703125 MB, averaging 0.000000004657 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 721.169306ms, averaging 2.751µs
+The communication is 0.001586914062 MB, averaging 0.000000006054 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 855.357233ms, averaging 3.262µs
+The communication is 0.001953125000 MB, averaging 0.000000007451 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 804.297579ms, averaging 3.068µs
+The communication is 0.002319335938 MB, averaging 0.000000008848 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 883.490267ms, averaging 3.37µs
+The communication is 0.002685546875 MB, averaging 0.000000010245 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 854.762006ms, averaging 3.26µs
+The communication is 0.003051757812 MB, averaging 0.000000011642 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 981.71804ms, averaging 3.744µs
+The communication is 0.003417968750 MB, averaging 0.000000013039 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 990.534565ms, averaging 3.778µs
+The communication is 0.003784179688 MB, averaging 0.000000014435 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 241.53709ms, averaging 921ns
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 556.615346ms, averaging 2.123µs
+The communication is 0.001220703125 MB, averaging 0.000000004657 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 799.728754ms, averaging 3.05µs
+The communication is 0.001586914062 MB, averaging 0.000000006054 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 750.836432ms, averaging 2.864µs
+The communication is 0.001953125000 MB, averaging 0.000000007451 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 846.520144ms, averaging 3.229µs
+The communication is 0.002319335938 MB, averaging 0.000000008848 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 957.787193ms, averaging 3.653µs
+The communication is 0.002685546875 MB, averaging 0.000000010245 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 943.145071ms, averaging 3.597µs
+The communication is 0.003051757812 MB, averaging 0.000000011642 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 1.004815744s, averaging 3.833µs
+The communication is 0.003417968750 MB, averaging 0.000000013039 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_1 262144 times took 1.086423945s, averaging 4.144µs
+The communication is 0.003784179688 MB, averaging 0.000000014435 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 9.432950596s, averaging 35.983µs
+The communication is 112.000427246094 MB, averaging 0.000427247724 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 13.473306669s, averaging 51.396µs
+The communication is 160.000610351562 MB, averaging 0.000610353891 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 17.491091405s, averaging 66.723µs
+The communication is 208.000793457031 MB, averaging 0.000793460058 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 21.517386533s, averaging 82.082µs
+The communication is 256.000976562500 MB, averaging 0.000976566225 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 25.543948326s, averaging 97.442µs
+The communication is 304.001159667969 MB, averaging 0.001159672393 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 29.576865004s, averaging 112.826µs
+The communication is 352.001342773438 MB, averaging 0.001342778560 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 33.602306169s, averaging 128.182µs
+The communication is 400.001525878906 MB, averaging 0.001525884727 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 37.675843964s, averaging 143.721µs
+The communication is 448.001708984375 MB, averaging 0.001708990894 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 41.651155344s, averaging 158.886µs
+The communication is 496.001892089844 MB, averaging 0.001892097061 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 4.927590904s, averaging 18.797µs
+The communication is 112.000427246094 MB, averaging 0.000427247724 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 7.060339287s, averaging 26.933µs
+The communication is 160.000610351562 MB, averaging 0.000610353891 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 9.107566542s, averaging 34.742µs
+The communication is 208.000793457031 MB, averaging 0.000793460058 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 11.442046931s, averaging 43.647µs
+The communication is 256.000976562500 MB, averaging 0.000976566225 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 13.794579291s, averaging 52.622µs
+The communication is 304.001159667969 MB, averaging 0.001159672393 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 15.627190845s, averaging 59.613µs
+The communication is 352.001342773438 MB, averaging 0.001342778560 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 17.931650699s, averaging 68.403µs
+The communication is 400.001525878906 MB, averaging 0.001525884727 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 19.842848809s, averaging 75.694µs
+The communication is 448.001708984375 MB, averaging 0.001708990894 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_1 262144 times took 22.198644014s, averaging 84.681µs
+The communication is 496.001892089844 MB, averaging 0.001892097061 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 656.947915ms, averaging 2.506µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 775.236976ms, averaging 2.957µs
+The communication is 0.001220703125 MB, averaging 0.000000004657 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 901.656347ms, averaging 3.439µs
+The communication is 0.001586914062 MB, averaging 0.000000006054 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.065258422s, averaging 4.063µs
+The communication is 0.001953125000 MB, averaging 0.000000007451 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.087797048s, averaging 4.149µs
+The communication is 0.002319335938 MB, averaging 0.000000008848 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.239471743s, averaging 4.728µs
+The communication is 0.002685546875 MB, averaging 0.000000010245 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.320023334s, averaging 5.035µs
+The communication is 0.003051757812 MB, averaging 0.000000011642 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.312901098s, averaging 5.008µs
+The communication is 0.003417968750 MB, averaging 0.000000013039 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.526017083s, averaging 5.821µs
+The communication is 0.003784179688 MB, averaging 0.000000014435 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 560.333573ms, averaging 2.137µs
+The communication is 0.000854492188 MB, averaging 0.000000003260 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 738.391228ms, averaging 2.816µs
+The communication is 0.001220703125 MB, averaging 0.000000004657 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 840.841154ms, averaging 3.207µs
+The communication is 0.001586914062 MB, averaging 0.000000006054 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 976.807317ms, averaging 3.726µs
+The communication is 0.001953125000 MB, averaging 0.000000007451 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.078216214s, averaging 4.113µs
+The communication is 0.002319335938 MB, averaging 0.000000008848 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.143063166s, averaging 4.36µs
+The communication is 0.002685546875 MB, averaging 0.000000010245 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.239797395s, averaging 4.729µs
+The communication is 0.003051757812 MB, averaging 0.000000011642 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.43882935s, averaging 5.488µs
+The communication is 0.003417968750 MB, averaging 0.000000013039 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_1 262144 times took 1.460046671s, averaging 5.569µs
+The communication is 0.003784179688 MB, averaging 0.000000014435 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 9.434976672s, averaging 35.991µs
+The communication is 112.000427246094 MB, averaging 0.000427247724 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 13.463622976s, averaging 51.359µs
+The communication is 160.000610351562 MB, averaging 0.000610353891 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 17.501970032s, averaging 66.764µs
+The communication is 208.000793457031 MB, averaging 0.000793460058 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 21.562674023s, averaging 82.255µs
+The communication is 256.000976562500 MB, averaging 0.000976566225 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 25.542994429s, averaging 97.438µs
+The communication is 304.001159667969 MB, averaging 0.001159672393 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 29.574615163s, averaging 112.818µs
+The communication is 352.001342773438 MB, averaging 0.001342778560 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 33.643984919s, averaging 128.341µs
+The communication is 400.001525878906 MB, averaging 0.001525884727 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 37.62109436s, averaging 143.513µs
+The communication is 448.001708984375 MB, averaging 0.001708990894 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 41.68792503s, averaging 159.026µs
+The communication is 496.001892089844 MB, averaging 0.001892097061 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 5.295312464s, averaging 20.2µs
+The communication is 112.000427246094 MB, averaging 0.000427247724 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 7.18105897s, averaging 27.393µs
+The communication is 160.000610351562 MB, averaging 0.000610353891 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 9.263885308s, averaging 35.338µs
+The communication is 208.000793457031 MB, averaging 0.000793460058 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 11.715117037s, averaging 44.689µs
+The communication is 256.000976562500 MB, averaging 0.000976566225 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 13.888681027s, averaging 52.981µs
+The communication is 304.001159667969 MB, averaging 0.001159672393 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 16.01388956s, averaging 61.088µs
+The communication is 352.001342773438 MB, averaging 0.001342778560 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 18.258154984s, averaging 69.649µs
+The communication is 400.001525878906 MB, averaging 0.001525884727 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 20.149574047s, averaging 76.864µs
+The communication is 448.001708984375 MB, averaging 0.001708990894 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_1 262144 times took 22.661059993s, averaging 86.445µs
+The communication is 496.001892089844 MB, averaging 0.001892097061 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 705.663974ms, averaging 21.535µs
+The communication is 0.000213623047 MB, averaging 0.000000006519 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 1.12759193s, averaging 34.411µs
+The communication is 0.000305175781 MB, averaging 0.000000009313 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 1.407238483s, averaging 42.945µs
+The communication is 0.000396728516 MB, averaging 0.000000012107 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 1.60091919s, averaging 48.856µs
+The communication is 0.000488281250 MB, averaging 0.000000014901 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 1.928409887s, averaging 58.85µs
+The communication is 0.000579833984 MB, averaging 0.000000017695 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 2.162009962s, averaging 65.979µs
+The communication is 0.000671386719 MB, averaging 0.000000020489 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 2.771458363s, averaging 84.578µs
+The communication is 0.000762939453 MB, averaging 0.000000023283 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 2.989612536s, averaging 91.235µs
+The communication is 0.000854492188 MB, averaging 0.000000026077 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 3.133082256s, averaging 95.614µs
+The communication is 0.000946044922 MB, averaging 0.000000028871 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 630.401608ms, averaging 19.238µs
+The communication is 0.000213623047 MB, averaging 0.000000006519 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 1.015290987s, averaging 30.984µs
+The communication is 0.000305175781 MB, averaging 0.000000009313 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 1.240046374s, averaging 37.843µs
+The communication is 0.000396728516 MB, averaging 0.000000012107 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 1.770581605s, averaging 54.033µs
+The communication is 0.000488281250 MB, averaging 0.000000014901 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 2.088409378s, averaging 63.733µs
+The communication is 0.000579833984 MB, averaging 0.000000017695 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 2.256656496s, averaging 68.867µs
+The communication is 0.000671386719 MB, averaging 0.000000020489 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 2.637839334s, averaging 80.5µs
+The communication is 0.000761985779 MB, averaging 0.000000023254 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 2.839005214s, averaging 86.639µs
+The communication is 0.000854492188 MB, averaging 0.000000026077 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_1 32768 times took 3.637013716s, averaging 110.992µs
+The communication is 0.000946044922 MB, averaging 0.000000028871 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 660.379335ms, averaging 20.153µs
+The communication is 0.000427246094 MB, averaging 0.000000013039 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 963.732233ms, averaging 29.41µs
+The communication is 0.000610351562 MB, averaging 0.000000018626 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 1.248896671s, averaging 38.113µs
+The communication is 0.000793457031 MB, averaging 0.000000024214 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 1.620268765s, averaging 49.446µs
+The communication is 0.000976562500 MB, averaging 0.000000029802 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 1.979430428s, averaging 60.407µs
+The communication is 0.001159667969 MB, averaging 0.000000035390 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 2.308673756s, averaging 70.455µs
+The communication is 0.001342773438 MB, averaging 0.000000040978 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 2.711266298s, averaging 82.741µs
+The communication is 0.001525878906 MB, averaging 0.000000046566 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 2.683402948s, averaging 81.89µs
+The communication is 0.001708984375 MB, averaging 0.000000052154 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 3.0385237s, averaging 92.728µs
+The communication is 0.001892089844 MB, averaging 0.000000057742 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 609.140664ms, averaging 18.589µs
+The communication is 0.000427246094 MB, averaging 0.000000013039 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 993.898271ms, averaging 30.331µs
+The communication is 0.000610351562 MB, averaging 0.000000018626 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 1.479306711s, averaging 45.144µs
+The communication is 0.000793457031 MB, averaging 0.000000024214 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 1.936435822s, averaging 59.095µs
+The communication is 0.000976562500 MB, averaging 0.000000029802 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 1.898053124s, averaging 57.923µs
+The communication is 0.001159667969 MB, averaging 0.000000035390 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 2.330959008s, averaging 71.135µs
+The communication is 0.001342773438 MB, averaging 0.000000040978 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 2.617095237s, averaging 79.867µs
+The communication is 0.001525878906 MB, averaging 0.000000046566 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 2.966025005s, averaging 90.515µs
+The communication is 0.001708984375 MB, averaging 0.000000052154 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_1 32768 times took 3.3699612s, averaging 102.843µs
+The communication is 0.001892089844 MB, averaging 0.000000057742 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 3.849052481s, averaging 117.463µs
+The communication is 23.997117996216 MB, averaging 0.000732333923 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 5.854007631s, averaging 178.65µs
+The communication is 44.995293617249 MB, averaging 0.001373147388 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 7.256244971s, averaging 221.443µs
+The communication is 71.992936134338 MB, averaging 0.002197050053 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 9.474560535s, averaging 289.14µs
+The communication is 104.990326881409 MB, averaging 0.003204050503 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 12.157429631s, averaging 371.015µs
+The communication is 143.987133979797 MB, averaging 0.004394138610 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 15.914454706s, averaging 485.67µs
+The communication is 188.984155654907 MB, averaging 0.005767338735 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 20.16682722s, averaging 615.442µs
+The communication is 239.980401992798 MB, averaging 0.007323620666 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 24.946381036s, averaging 761.303µs
+The communication is 296.976247787476 MB, averaging 0.009062995843 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 30.245126216s, averaging 923.008µs
+The communication is 359.971883773804 MB, averaging 0.010985470086 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 3.99681021s, averaging 121.972µs
+The communication is 23.997198104858 MB, averaging 0.000732336368 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 5.397756804s, averaging 164.726µs
+The communication is 44.995307922363 MB, averaging 0.001373147825 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 7.563023154s, averaging 230.805µs
+The communication is 71.993065834045 MB, averaging 0.002197054011 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 8.910825263s, averaging 271.936µs
+The communication is 104.990257263184 MB, averaging 0.003204048378 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 10.558496339s, averaging 322.219µs
+The communication is 143.987172126770 MB, averaging 0.004394139774 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 12.490959397s, averaging 381.193µs
+The communication is 188.984056472778 MB, averaging 0.005767335708 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 14.106605621s, averaging 430.499µs
+The communication is 239.980195045471 MB, averaging 0.007323614351 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 15.908015925s, averaging 485.474µs
+The communication is 296.976072311401 MB, averaging 0.009062990488 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_1 32768 times took 17.834759226s, averaging 544.273µs
+The communication is 359.971581459045 MB, averaging 0.010985460860 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 696.535217ms, averaging 21.256µs
+The communication is 8.063361167908 MB, averaging 0.000246074254 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 2.051101689s, averaging 62.594µs
+The communication is 24.188730239868 MB, averaging 0.000738181465 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 4.108952607s, averaging 125.395µs
+The communication is 48.376599311829 MB, averaging 0.001476336649 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 6.784928285s, averaging 207.059µs
+The communication is 80.626968383789 MB, averaging 0.002460539807 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 10.166962763s, averaging 310.271µs
+The communication is 120.939837455750 MB, averaging 0.003690790938 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 14.223669236s, averaging 434.071µs
+The communication is 169.315206527710 MB, averaging 0.005167090043 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 18.96051567s, averaging 578.629µs
+The communication is 225.753075599670 MB, averaging 0.006889437122 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 24.369720292s, averaging 743.704µs
+The communication is 290.253444671631 MB, averaging 0.008857832174 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 30.456169024s, averaging 929.448µs
+The communication is 362.816313743591 MB, averaging 0.011072275200 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 158.13988ms, averaging 4.826µs
+The communication is 8.063361167908 MB, averaging 0.000246074254 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 426.43034ms, averaging 13.013µs
+The communication is 24.188730239868 MB, averaging 0.000738181465 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 832.252304ms, averaging 25.398µs
+The communication is 48.376599311829 MB, averaging 0.001476336649 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 1.373446592s, averaging 41.914µs
+The communication is 80.626968383789 MB, averaging 0.002460539807 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 2.049322263s, averaging 62.54µs
+The communication is 120.939837455750 MB, averaging 0.003690790938 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 2.86086456s, averaging 87.306µs
+The communication is 169.315206527710 MB, averaging 0.005167090043 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 3.808475571s, averaging 116.225µs
+The communication is 225.753075599670 MB, averaging 0.006889437122 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 4.890011702s, averaging 149.231µs
+The communication is 290.253444671631 MB, averaging 0.008857832174 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_2 32768 times took 6.107412119s, averaging 186.383µs
+The communication is 362.816313743591 MB, averaging 0.011072275200 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 1.713726895s, averaging 52.298µs
+The communication is 20.125539779663 MB, averaging 0.000614182733 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 5.136449395s, averaging 156.751µs
+The communication is 60.375247955322 MB, averaging 0.001842506346 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 10.150283261s, averaging 309.762µs
+The communication is 120.749499320984 MB, averaging 0.003684982279 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 16.902793557s, averaging 515.832µs
+The communication is 201.248611450195 MB, averaging 0.006141620222 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 25.343624047s, averaging 773.426µs
+The communication is 301.872206687927 MB, averaging 0.009212408651 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 35.47194465s, averaging 1.082517ms
+The communication is 422.620662689209 MB, averaging 0.012897359091 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 47.293940168s, averaging 1.443296ms
+The communication is 563.493309020996 MB, averaging 0.017196451081 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 1m0.796000349s, averaging 1.855346ms
+The communication is 724.491008758545 MB, averaging 0.022109710961 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 1m15.990075735s, averaging 2.319033ms
+The communication is 905.613664627075 MB, averaging 0.027637135761 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 1.685701613s, averaging 51.443µs
+The communication is 20.125520706177 MB, averaging 0.000614182150 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 2.090845485s, averaging 63.807µs
+The communication is 60.375225067139 MB, averaging 0.001842505648 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 3.071537355s, averaging 93.735µs
+The communication is 120.749576568604 MB, averaging 0.003684984636 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 3.751579304s, averaging 114.489µs
+The communication is 201.248596191406 MB, averaging 0.006141619757 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 5.08491915s, averaging 155.179µs
+The communication is 301.872154235840 MB, averaging 0.009212407051 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 7.111312997s, averaging 217.02µs
+The communication is 422.620239257812 MB, averaging 0.012897346169 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 9.473963994s, averaging 289.122µs
+The communication is 563.493682861328 MB, averaging 0.017196462490 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 12.175818984s, averaging 371.576µs
+The communication is 724.491046905518 MB, averaging 0.022109712125 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_2 32768 times took 15.214276658s, averaging 464.302µs
+The communication is 905.613261222839 MB, averaging 0.027637123450 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 140.004041ms, averaging 2.136µs
+The communication is 0.001722335815 MB, averaging 0.000000026281 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 225.128446ms, averaging 3.435µs
+The communication is 0.002460479736 MB, averaging 0.000000037544 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 510.929225ms, averaging 7.796µs
+The communication is 0.003198623657 MB, averaging 0.000000048807 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 504.213931ms, averaging 7.693µs
+The communication is 0.003936767578 MB, averaging 0.000000060070 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 471.887585ms, averaging 7.2µs
+The communication is 0.004674911499 MB, averaging 0.000000071333 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 596.616554ms, averaging 9.103µs
+The communication is 0.005413055420 MB, averaging 0.000000082597 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 893.494356ms, averaging 13.633µs
+The communication is 0.006151199341 MB, averaging 0.000000093860 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 618.538287ms, averaging 9.438µs
+The communication is 0.006889343262 MB, averaging 0.000000105123 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 780.812985ms, averaging 11.914µs
+The communication is 0.007627487183 MB, averaging 0.000000116386 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 185.100754ms, averaging 2.824µs
+The communication is 0.001722335815 MB, averaging 0.000000026281 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 400.395081ms, averaging 6.109µs
+The communication is 0.002460479736 MB, averaging 0.000000037544 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 638.364266ms, averaging 9.74µs
+The communication is 0.003198623657 MB, averaging 0.000000048807 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 539.215162ms, averaging 8.227µs
+The communication is 0.003936767578 MB, averaging 0.000000060070 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 549.988741ms, averaging 8.392µs
+The communication is 0.004674911499 MB, averaging 0.000000071333 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 519.741442ms, averaging 7.93µs
+The communication is 0.005413055420 MB, averaging 0.000000082597 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 956.387195ms, averaging 14.593µs
+The communication is 0.006151199341 MB, averaging 0.000000093860 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 734.65888ms, averaging 11.21µs
+The communication is 0.006889343262 MB, averaging 0.000000105123 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_2 65536 times took 719.70129ms, averaging 10.981µs
+The communication is 0.007627487183 MB, averaging 0.000000116386 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 5.33692105s, averaging 81.434µs
+The communication is 56.438361167908 MB, averaging 0.000861181048 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 7.824543841s, averaging 119.393µs
+The communication is 80.626230239868 MB, averaging 0.001230258640 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 10.425980387s, averaging 159.087µs
+The communication is 104.814099311829 MB, averaging 0.001599336232 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 11.812772558s, averaging 180.248µs
+The communication is 129.001968383789 MB, averaging 0.001968413824 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 14.379078392s, averaging 219.407µs
+The communication is 153.189837455750 MB, averaging 0.002337491416 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 16.695216656s, averaging 254.748µs
+The communication is 177.377706527710 MB, averaging 0.002706569008 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 18.96959237s, averaging 289.453µs
+The communication is 201.565575599670 MB, averaging 0.003075646600 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 21.362164859s, averaging 325.96µs
+The communication is 225.753444671631 MB, averaging 0.003444724192 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 23.728499369s, averaging 362.068µs
+The communication is 249.941313743591 MB, averaging 0.003813801784 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 4.900087324s, averaging 74.769µs
+The communication is 56.438361167908 MB, averaging 0.000861181048 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 7.246894175s, averaging 110.578µs
+The communication is 80.626230239868 MB, averaging 0.001230258640 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 9.630011318s, averaging 146.942µs
+The communication is 104.814099311829 MB, averaging 0.001599336232 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 11.679024936s, averaging 178.207µs
+The communication is 129.001968383789 MB, averaging 0.001968413824 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 13.209176928s, averaging 201.556µs
+The communication is 153.189837455750 MB, averaging 0.002337491416 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 15.746313663s, averaging 240.269µs
+The communication is 177.377706527710 MB, averaging 0.002706569008 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 17.964893807s, averaging 274.122µs
+The communication is 201.565575599670 MB, averaging 0.003075646600 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 20.1602047s, averaging 307.62µs
+The communication is 225.753444671631 MB, averaging 0.003444724192 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_2 65536 times took 22.164922809s, averaging 338.209µs
+The communication is 249.941313743591 MB, averaging 0.003813801784 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 485.922175ms, averaging 7.414µs
+The communication is 0.001722335815 MB, averaging 0.000000026281 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 519.480683ms, averaging 7.926µs
+The communication is 0.002460479736 MB, averaging 0.000000037544 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 720.88385ms, averaging 10.999µs
+The communication is 0.003198623657 MB, averaging 0.000000048807 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 637.911324ms, averaging 9.733µs
+The communication is 0.003936767578 MB, averaging 0.000000060070 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 870.805535ms, averaging 13.287µs
+The communication is 0.004674911499 MB, averaging 0.000000071333 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 854.608597ms, averaging 13.04µs
+The communication is 0.005413055420 MB, averaging 0.000000082597 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 866.390192ms, averaging 13.22µs
+The communication is 0.006151199341 MB, averaging 0.000000093860 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 897.252815ms, averaging 13.69µs
+The communication is 0.006889343262 MB, averaging 0.000000105123 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 1.20695334s, averaging 18.416µs
+The communication is 0.007627487183 MB, averaging 0.000000116386 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 356.653938ms, averaging 5.442µs
+The communication is 0.001722335815 MB, averaging 0.000000026281 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 514.446262ms, averaging 7.849µs
+The communication is 0.002460479736 MB, averaging 0.000000037544 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 645.772981ms, averaging 9.853µs
+The communication is 0.003198623657 MB, averaging 0.000000048807 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 807.678114ms, averaging 12.324µs
+The communication is 0.003936767578 MB, averaging 0.000000060070 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 901.641802ms, averaging 13.757µs
+The communication is 0.004674911499 MB, averaging 0.000000071333 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 888.890784ms, averaging 13.563µs
+The communication is 0.005413055420 MB, averaging 0.000000082597 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 930.324936ms, averaging 14.195µs
+The communication is 0.006151199341 MB, averaging 0.000000093860 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 910.179781ms, averaging 13.888µs
+The communication is 0.006889343262 MB, averaging 0.000000105123 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_2 65536 times took 1.118298082s, averaging 17.063µs
+The communication is 0.007627487183 MB, averaging 0.000000116386 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 2.470371053s, averaging 75.389µs
+The communication is 28.219611167908 MB, averaging 0.000861194188 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 3.616954796s, averaging 110.38µs
+The communication is 40.313730239868 MB, averaging 0.001230277412 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 4.623910715s, averaging 141.11µs
+The communication is 52.407849311829 MB, averaging 0.001599360636 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 5.658109057s, averaging 172.671µs
+The communication is 64.501968383789 MB, averaging 0.001968443859 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 6.871429272s, averaging 209.699µs
+The communication is 76.596087455750 MB, averaging 0.002337527083 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 7.88820645s, averaging 240.728µs
+The communication is 88.690206527710 MB, averaging 0.002706610307 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 9.006400815s, averaging 274.853µs
+The communication is 100.784325599670 MB, averaging 0.003075693530 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 10.123623178s, averaging 308.948µs
+The communication is 112.878444671631 MB, averaging 0.003444776754 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 11.295472725s, averaging 344.71µs
+The communication is 124.972563743591 MB, averaging 0.003813859978 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 2.377433016s, averaging 72.553µs
+The communication is 28.219611167908 MB, averaging 0.000861194188 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 3.504035389s, averaging 106.934µs
+The communication is 40.313730239868 MB, averaging 0.001230277412 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 4.505570064s, averaging 137.499µs
+The communication is 52.407849311829 MB, averaging 0.001599360636 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 5.53421697s, averaging 168.89µs
+The communication is 64.501968383789 MB, averaging 0.001968443859 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 6.596567031s, averaging 201.311µs
+The communication is 76.596087455750 MB, averaging 0.002337527083 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 7.582536317s, averaging 231.4µs
+The communication is 88.690206527710 MB, averaging 0.002706610307 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 8.541793092s, averaging 260.674µs
+The communication is 100.784325599670 MB, averaging 0.003075693530 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 9.597138471s, averaging 292.881µs
+The communication is 112.878444671631 MB, averaging 0.003444776754 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_2 32768 times took 10.731167675s, averaging 327.489µs
+The communication is 124.972563743591 MB, averaging 0.003813859978 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 2.946179712s, averaging 89.91µs
+The communication is 0.000213623047 MB, averaging 0.000000006519 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 4.588835602s, averaging 140.04µs
+The communication is 0.000305175781 MB, averaging 0.000000009313 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 5.943014176s, averaging 181.366µs
+The communication is 0.000396728516 MB, averaging 0.000000012107 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 7.352114988s, averaging 224.368µs
+The communication is 0.000488281250 MB, averaging 0.000000014901 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 9.000494832s, averaging 274.673µs
+The communication is 0.000579833984 MB, averaging 0.000000017695 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 10.519134735s, averaging 321.018µs
+The communication is 0.000671386719 MB, averaging 0.000000020489 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 11.637391514s, averaging 355.145µs
+The communication is 0.000762939453 MB, averaging 0.000000023283 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 13.316482083s, averaging 406.386µs
+The communication is 0.000854492188 MB, averaging 0.000000026077 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 14.722423803s, averaging 449.292µs
+The communication is 0.000946044922 MB, averaging 0.000000028871 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 2.884381771s, averaging 88.024µs
+The communication is 0.000213623047 MB, averaging 0.000000006519 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 4.425436007s, averaging 135.053µs
+The communication is 0.000305175781 MB, averaging 0.000000009313 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 5.927048369s, averaging 180.879µs
+The communication is 0.000395774841 MB, averaging 0.000000012078 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 7.549490807s, averaging 230.392µs
+The communication is 0.000488281250 MB, averaging 0.000000014901 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 9.125458187s, averaging 278.486µs
+The communication is 0.000579833984 MB, averaging 0.000000017695 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 10.461208563s, averaging 319.25µs
+The communication is 0.000671386719 MB, averaging 0.000000020489 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 11.534035884s, averaging 351.99µs
+The communication is 0.000762939453 MB, averaging 0.000000023283 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 13.314086346s, averaging 406.313µs
+The communication is 0.000854492188 MB, averaging 0.000000026077 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_2 32768 times took 14.422724147s, averaging 440.146µs
+The communication is 0.000946044922 MB, averaging 0.000000028871 MB
+n=2
+Computing x*[P] on the BP group G_2 32768 times took 2.893290662s, averaging 88.296µs
+The communication is 0.000861167908 MB, averaging 0.000000026281 MB
+n=3
+Computing x*[P] on the BP group G_2 32768 times took 4.629024976s, averaging 141.266µs
+The communication is 0.001230239868 MB, averaging 0.000000037544 MB
+n=4
+Computing x*[P] on the BP group G_2 32768 times took 5.953042556s, averaging 181.672µs
+The communication is 0.001599311829 MB, averaging 0.000000048807 MB
+n=5
+Computing x*[P] on the BP group G_2 32768 times took 7.391447133s, averaging 225.569µs
+The communication is 0.001968383789 MB, averaging 0.000000060070 MB
+n=6
+Computing x*[P] on the BP group G_2 32768 times took 8.917053037s, averaging 272.126µs
+The communication is 0.002337455750 MB, averaging 0.000000071333 MB
+n=7
+Computing x*[P] on the BP group G_2 32768 times took 9.935018799s, averaging 303.192µs
+The communication is 0.002706527710 MB, averaging 0.000000082597 MB
+n=8
+Computing x*[P] on the BP group G_2 32768 times took 11.649578655s, averaging 355.516µs
+The communication is 0.003075599670 MB, averaging 0.000000093860 MB
+n=9
+Computing x*[P] on the BP group G_2 32768 times took 12.56683985s, averaging 383.509µs
+The communication is 0.003444671631 MB, averaging 0.000000105123 MB
+n=10
+Computing x*[P] on the BP group G_2 32768 times took 14.835263109s, averaging 452.736µs
+The communication is 0.003813743591 MB, averaging 0.000000116386 MB
+n=2
+Computing x*[P] on the BP group G_2 32768 times took 2.795563978s, averaging 85.313µs
+The communication is 0.000861167908 MB, averaging 0.000000026281 MB
+n=3
+Computing x*[P] on the BP group G_2 32768 times took 4.340046602s, averaging 132.447µs
+The communication is 0.001230239868 MB, averaging 0.000000037544 MB
+n=4
+Computing x*[P] on the BP group G_2 32768 times took 6.007735351s, averaging 183.341µs
+The communication is 0.001599311829 MB, averaging 0.000000048807 MB
+n=5
+Computing x*[P] on the BP group G_2 32768 times took 6.936985594s, averaging 211.699µs
+The communication is 0.001968383789 MB, averaging 0.000000060070 MB
+n=6
+Computing x*[P] on the BP group G_2 32768 times took 8.242043685s, averaging 251.527µs
+The communication is 0.002337455750 MB, averaging 0.000000071333 MB
+n=7
+Computing x*[P] on the BP group G_2 32768 times took 9.900367434s, averaging 302.135µs
+The communication is 0.002706527710 MB, averaging 0.000000082597 MB
+n=8
+Computing x*[P] on the BP group G_2 32768 times took 10.967218662s, averaging 334.692µs
+The communication is 0.003075599670 MB, averaging 0.000000093860 MB
+n=9
+Computing x*[P] on the BP group G_2 32768 times took 13.028292524s, averaging 397.591µs
+The communication is 0.003444671631 MB, averaging 0.000000105123 MB
+n=10
+Computing x*[P] on the BP group G_2 32768 times took 14.581191059s, averaging 444.982µs
+The communication is 0.003813743591 MB, averaging 0.000000116386 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 14.830843679s, averaging 452.601µs
+The communication is 28.060035705566 MB, averaging 0.000856324332 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 22.103061089s, averaging 674.531µs
+The communication is 57.183302879333 MB, averaging 0.001745095913 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 29.559004371s, averaging 902.069µs
+The communication is 96.368833541870 MB, averaging 0.002940943406 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 36.583189361s, averaging 1.11643ms
+The communication is 145.616335868835 MB, averaging 0.004443857906 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 43.804847849s, averaging 1.336817ms
+The communication is 204.925981521606 MB, averaging 0.006253844651 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 57.296771614s, averaging 1.748558ms
+The communication is 274.297592163086 MB, averaging 0.008370898198 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 1m11.444053935s, averaging 2.180299ms
+The communication is 353.732105255127 MB, averaging 0.010795047157 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 1m21.485895935s, averaging 2.486752ms
+The communication is 443.228449821472 MB, averaging 0.013526258845 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 1m29.796863792s, averaging 2.740382ms
+The communication is 542.786960601807 MB, averaging 0.016564543475 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 18.638746757s, averaging 568.809µs
+The communication is 28.060171127319 MB, averaging 0.000856328465 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 26.93002986s, averaging 821.839µs
+The communication is 57.183345794678 MB, averaging 0.001745097223 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 34.463956577s, averaging 1.051756ms
+The communication is 96.368854522705 MB, averaging 0.002940944047 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 45.631915259s, averaging 1.392575ms
+The communication is 145.616200447083 MB, averaging 0.004443853773 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 52.434284999s, averaging 1.600167ms
+The communication is 204.926021575928 MB, averaging 0.006253845873 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 1m2.19945986s, averaging 1.898176ms
+The communication is 274.297975540161 MB, averaging 0.008370909898 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 1m11.61820711s, averaging 2.185614ms
+The communication is 353.731549263000 MB, averaging 0.010795030190 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 1m20.420890764s, averaging 2.45425ms
+The communication is 443.228384971619 MB, averaging 0.013526256866 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_2 32768 times took 1m28.460202159s, averaging 2.699591ms
+The communication is 542.786237716675 MB, averaging 0.016564521415 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 2.034291397s, averaging 62.081µs
+The communication is 24.002563476562 MB, averaging 0.000732500106 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 6.062074268s, averaging 184.999µs
+The communication is 72.003662109375 MB, averaging 0.002197377384 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 12.101914465s, averaging 369.321µs
+The communication is 144.004760742188 MB, averaging 0.004394676536 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 20.155170172s, averaging 615.086µs
+The communication is 240.005859375000 MB, averaging 0.007324397564 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 30.221195264s, averaging 922.277µs
+The communication is 360.006958007812 MB, averaging 0.010986540467 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 42.301594406s, averaging 1.290942ms
+The communication is 504.008056640625 MB, averaging 0.015381105244 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 56.393640775s, averaging 1.720997ms
+The communication is 672.009155273438 MB, averaging 0.020508091897 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 1m12.49994466s, averaging 2.212522ms
+The communication is 864.010253906250 MB, averaging 0.026367500424 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 1m30.618369484s, averaging 2.765453ms
+The communication is 1080.011352539062 MB, averaging 0.032959330827 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 422.933289ms, averaging 12.906µs
+The communication is 24.002563476562 MB, averaging 0.000732500106 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 1.228477086s, averaging 37.49µs
+The communication is 72.003662109375 MB, averaging 0.002197377384 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 2.436336565s, averaging 74.351µs
+The communication is 144.004760742188 MB, averaging 0.004394676536 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 4.049354354s, averaging 123.576µs
+The communication is 240.005859375000 MB, averaging 0.007324397564 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 6.060315313s, averaging 184.946µs
+The communication is 360.006958007812 MB, averaging 0.010986540467 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 8.478522109s, averaging 258.743µs
+The communication is 504.008056640625 MB, averaging 0.015381105244 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 11.295454206s, averaging 344.709µs
+The communication is 672.009155273438 MB, averaging 0.020508091897 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 14.518265528s, averaging 443.062µs
+The communication is 864.010253906250 MB, averaging 0.026367500424 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening partially [P] on the BP group G_T 32768 times took 18.1460435s, averaging 553.773µs
+The communication is 1080.011352539062 MB, averaging 0.032959330827 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 4.268807435s, averaging 130.273µs
+The communication is 52.001796722412 MB, averaging 0.001586968894 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 11.415720903s, averaging 348.38µs
+The communication is 156.001758575439 MB, averaging 0.004760795855 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 22.72661455s, averaging 693.561µs
+The communication is 312.002889633179 MB, averaging 0.009521572560 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 37.785657453s, averaging 1.153126ms
+The communication is 520.002670288086 MB, averaging 0.015869222116 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 56.703213099s, averaging 1.730444ms
+The communication is 780.001841545105 MB, averaging 0.023803767137 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 1m19.34961939s, averaging 2.421558ms
+The communication is 1092.000846862793 MB, averaging 0.033325221157 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 1m45.88372967s, averaging 3.231314ms
+The communication is 1455.990222930908 MB, averaging 0.044433295378 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 2m16.021853906s, averaging 4.151057ms
+The communication is 1871.997604370117 MB, averaging 0.057128833141 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 2m50.028815506s, averaging 5.188867ms
+The communication is 2339.995516777039 MB, averaging 0.071410995995 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 3.993715759s, averaging 121.878µs
+The communication is 52.002229690552 MB, averaging 0.001586982107 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 5.187684017s, averaging 158.315µs
+The communication is 156.001735687256 MB, averaging 0.004760795156 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 6.831085983s, averaging 208.468µs
+The communication is 312.002826690674 MB, averaging 0.009521570639 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 8.899197737s, averaging 271.581µs
+The communication is 520.002517700195 MB, averaging 0.015869217459 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 12.893632826s, averaging 393.482µs
+The communication is 780.001936912537 MB, averaging 0.023803770047 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 16.754690922s, averaging 511.312µs
+The communication is 1092.000703811646 MB, averaging 0.033325216791 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 21.652441296s, averaging 660.78µs
+The communication is 1455.999288558960 MB, averaging 0.044433572039 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 27.416826848s, averaging 836.695µs
+The communication is 1871.997901916504 MB, averaging 0.057128842222 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Opening [P] on the BP group G_T 32768 times took 34.15867606s, averaging 1.04244ms
+The communication is 2339.992143630981 MB, averaging 0.071410893055 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 163.276379ms, averaging 2.491µs
+The communication is 0.005126953125 MB, averaging 0.000000078231 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 945.324089ms, averaging 14.424µs
+The communication is 0.007324218750 MB, averaging 0.000000111759 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 664.03567ms, averaging 10.132µs
+The communication is 0.009521484375 MB, averaging 0.000000145286 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 1.641774995s, averaging 25.051µs
+The communication is 0.011718750000 MB, averaging 0.000000178814 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 1.155931274s, averaging 17.638µs
+The communication is 0.013916015625 MB, averaging 0.000000212342 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 1.140598225s, averaging 17.404µs
+The communication is 0.016113281250 MB, averaging 0.000000245869 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 1.121361215s, averaging 17.11µs
+The communication is 0.018310546875 MB, averaging 0.000000279397 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 1.670322093s, averaging 25.487µs
+The communication is 0.020507812500 MB, averaging 0.000000312924 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 1.356391669s, averaging 20.696µs
+The communication is 0.022705078125 MB, averaging 0.000000346452 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 523.5536ms, averaging 7.988µs
+The communication is 0.005126953125 MB, averaging 0.000000078231 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 598.57253ms, averaging 9.133µs
+The communication is 0.007324218750 MB, averaging 0.000000111759 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 513.560538ms, averaging 7.836µs
+The communication is 0.009521484375 MB, averaging 0.000000145286 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 525.971268ms, averaging 8.025µs
+The communication is 0.011718750000 MB, averaging 0.000000178814 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 895.815299ms, averaging 13.669µs
+The communication is 0.013916015625 MB, averaging 0.000000212342 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 1.446795384s, averaging 22.076µs
+The communication is 0.016113281250 MB, averaging 0.000000245869 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 880.546394ms, averaging 13.436µs
+The communication is 0.018310546875 MB, averaging 0.000000279397 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 1.335382003s, averaging 20.376µs
+The communication is 0.020507812500 MB, averaging 0.000000312924 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+[Q] on the BP group G_T 65536 times took 1.558316308s, averaging 23.778µs
+The communication is 0.022705078125 MB, averaging 0.000000346452 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 7.28524203s, averaging 222.327µs
+The communication is 84.002563476562 MB, averaging 0.002563554794 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 10.418928035s, averaging 317.96µs
+The communication is 120.003662109375 MB, averaging 0.003662221134 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 13.262319252s, averaging 404.733µs
+The communication is 156.004760742188 MB, averaging 0.004760887474 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 16.497703193s, averaging 503.469µs
+The communication is 192.005859375000 MB, averaging 0.005859553814 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 19.672060707s, averaging 600.343µs
+The communication is 228.006958007812 MB, averaging 0.006958220154 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 22.585004124s, averaging 689.239µs
+The communication is 264.008056640625 MB, averaging 0.008056886494 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 25.589919915s, averaging 780.942µs
+The communication is 300.009155273438 MB, averaging 0.009155552834 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 28.554676762s, averaging 871.419µs
+The communication is 336.010253906250 MB, averaging 0.010254219174 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 31.668484586s, averaging 966.445µs
+The communication is 372.011352539062 MB, averaging 0.011352885514 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 6.778674335s, averaging 206.868µs
+The communication is 84.002563476562 MB, averaging 0.002563554794 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 9.686236135s, averaging 295.6µs
+The communication is 120.003662109375 MB, averaging 0.003662221134 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 11.757958781s, averaging 358.824µs
+The communication is 156.004760742188 MB, averaging 0.004760887474 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 14.106730695s, averaging 430.503µs
+The communication is 192.005859375000 MB, averaging 0.005859553814 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 17.516614812s, averaging 534.564µs
+The communication is 228.006958007812 MB, averaging 0.006958220154 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 20.217898101s, averaging 617.001µs
+The communication is 264.008056640625 MB, averaging 0.008056886494 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 21.911450532s, averaging 668.684µs
+The communication is 300.009155273438 MB, averaging 0.009155552834 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 26.780784355s, averaging 817.284µs
+The communication is 336.010253906250 MB, averaging 0.010254219174 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]+Q on the BP group G_T 32768 times took 28.616535433s, averaging 873.307µs
+The communication is 372.011352539062 MB, averaging 0.011352885514 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 491.859006ms, averaging 7.505µs
+The communication is 0.005126953125 MB, averaging 0.000000078231 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 611.257556ms, averaging 9.327µs
+The communication is 0.007324218750 MB, averaging 0.000000111759 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 1.180614102s, averaging 18.014µs
+The communication is 0.009521484375 MB, averaging 0.000000145286 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 1.948454817s, averaging 29.731µs
+The communication is 0.011718750000 MB, averaging 0.000000178814 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 1.821080852s, averaging 27.787µs
+The communication is 0.013916015625 MB, averaging 0.000000212342 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 1.982090128s, averaging 30.244µs
+The communication is 0.016113281250 MB, averaging 0.000000245869 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 2.35591006s, averaging 35.948µs
+The communication is 0.018310546875 MB, averaging 0.000000279397 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 2.629586341s, averaging 40.124µs
+The communication is 0.020507812500 MB, averaging 0.000000312924 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 2.708035717s, averaging 41.321µs
+The communication is 0.022705078125 MB, averaging 0.000000346452 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 382.590547ms, averaging 5.837µs
+The communication is 0.005126953125 MB, averaging 0.000000078231 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 1.089818907s, averaging 16.629µs
+The communication is 0.007324218750 MB, averaging 0.000000111759 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 1.327075266s, averaging 20.249µs
+The communication is 0.009521484375 MB, averaging 0.000000145286 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 1.793525557s, averaging 27.367µs
+The communication is 0.011718750000 MB, averaging 0.000000178814 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 1.678437071s, averaging 25.61µs
+The communication is 0.013916015625 MB, averaging 0.000000212342 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 1.966147426s, averaging 30.001µs
+The communication is 0.016113281250 MB, averaging 0.000000245869 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 2.213712789s, averaging 33.778µs
+The communication is 0.018310546875 MB, averaging 0.000000279397 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 2.438381482s, averaging 37.206µs
+The communication is 0.020507812500 MB, averaging 0.000000312924 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-[Q] on the BP group G_T 65536 times took 2.726791369s, averaging 41.607µs
+The communication is 0.022705078125 MB, averaging 0.000000346452 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 7.306131039s, averaging 222.965µs
+The communication is 84.002563476562 MB, averaging 0.002563554794 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 10.567577638s, averaging 322.496µs
+The communication is 120.003662109375 MB, averaging 0.003662221134 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 13.342130089s, averaging 407.169µs
+The communication is 156.004760742188 MB, averaging 0.004760887474 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 16.530316305s, averaging 504.465µs
+The communication is 192.005859375000 MB, averaging 0.005859553814 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 19.6358062s, averaging 599.237µs
+The communication is 228.006958007812 MB, averaging 0.006958220154 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 22.406989216s, averaging 683.807µs
+The communication is 264.008056640625 MB, averaging 0.008056886494 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 25.533712778s, averaging 779.227µs
+The communication is 300.009155273438 MB, averaging 0.009155552834 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 28.41521111s, averaging 867.163µs
+The communication is 336.010253906250 MB, averaging 0.010254219174 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 31.656876868s, averaging 966.091µs
+The communication is 372.011352539062 MB, averaging 0.011352885514 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 6.277907481s, averaging 191.586µs
+The communication is 84.002563476562 MB, averaging 0.002563554794 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 10.039352449s, averaging 306.376µs
+The communication is 120.003662109375 MB, averaging 0.003662221134 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 12.088656324s, averaging 368.916µs
+The communication is 156.004760742188 MB, averaging 0.004760887474 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 14.399810396s, averaging 439.447µs
+The communication is 192.005859375000 MB, averaging 0.005859553814 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 16.73158581s, averaging 510.607µs
+The communication is 228.006958007812 MB, averaging 0.006958220154 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 20.70365857s, averaging 631.825µs
+The communication is 264.008056640625 MB, averaging 0.008056886494 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 23.193277429s, averaging 707.802µs
+The communication is 300.009155273438 MB, averaging 0.009155552834 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 25.145208727s, averaging 767.37µs
+The communication is 336.010253906250 MB, averaging 0.010254219174 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [P]-Q on the BP group G_T 32768 times took 29.782125396s, averaging 908.878µs
+The communication is 372.011352539062 MB, averaging 0.011352885514 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 8.281554762s, averaging 252.732µs
+The communication is 0.000213623047 MB, averaging 0.000000006519 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 11.531912857s, averaging 351.926µs
+The communication is 0.000305175781 MB, averaging 0.000000009313 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 15.98102877s, averaging 487.702µs
+The communication is 0.000396728516 MB, averaging 0.000000012107 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 18.957147989s, averaging 578.526µs
+The communication is 0.000488281250 MB, averaging 0.000000014901 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 24.149478999s, averaging 736.983µs
+The communication is 0.000579833984 MB, averaging 0.000000017695 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 27.89730923s, averaging 851.358µs
+The communication is 0.000671386719 MB, averaging 0.000000020489 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 31.957795631s, averaging 975.274µs
+The communication is 0.000762939453 MB, averaging 0.000000023283 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 36.781084898s, averaging 1.122469ms
+The communication is 0.000854492188 MB, averaging 0.000000026077 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 39.210437722s, averaging 1.196607ms
+The communication is 0.000946044922 MB, averaging 0.000000028871 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 8.371011017s, averaging 255.462µs
+The communication is 0.000213623047 MB, averaging 0.000000006519 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 10.559494919s, averaging 322.25µs
+The communication is 0.000305175781 MB, averaging 0.000000009313 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 15.996979776s, averaging 488.189µs
+The communication is 0.000396728516 MB, averaging 0.000000012107 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 19.682200332s, averaging 600.653µs
+The communication is 0.000488281250 MB, averaging 0.000000014901 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 23.168738287s, averaging 707.053µs
+The communication is 0.000574111938 MB, averaging 0.000000017521 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 28.465056602s, averaging 868.684µs
+The communication is 0.000671386719 MB, averaging 0.000000020489 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 32.076479971s, averaging 978.896µs
+The communication is 0.000762939453 MB, averaging 0.000000023283 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 35.403753789s, averaging 1.080436ms
+The communication is 0.000854492188 MB, averaging 0.000000026077 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*P on the BP group G_T 32768 times took 39.709609486s, averaging 1.211841ms
+The communication is 0.000946044922 MB, averaging 0.000000028871 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 8.169895721s, averaging 249.325µs
+The communication is 0.002563476562 MB, averaging 0.000000078231 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 11.959426499s, averaging 364.972µs
+The communication is 0.003662109375 MB, averaging 0.000000111759 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 14.639281622s, averaging 446.755µs
+The communication is 0.004760742188 MB, averaging 0.000000145286 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 20.6616957s, averaging 630.544µs
+The communication is 0.005859375000 MB, averaging 0.000000178814 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 24.382760962s, averaging 744.102µs
+The communication is 0.006958007812 MB, averaging 0.000000212342 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 29.736015248s, averaging 907.471µs
+The communication is 0.008056640625 MB, averaging 0.000000245869 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 30.73602595s, averaging 937.989µs
+The communication is 0.009155273438 MB, averaging 0.000000279397 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 34.860214665s, averaging 1.063849ms
+The communication is 0.010253906250 MB, averaging 0.000000312924 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 40.29325298s, averaging 1.229652ms
+The communication is 0.011352539062 MB, averaging 0.000000346452 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 8.519433426s, averaging 259.992µs
+The communication is 0.002563476562 MB, averaging 0.000000078231 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 11.473085496s, averaging 350.13µs
+The communication is 0.003662109375 MB, averaging 0.000000111759 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 16.980913241s, averaging 518.216µs
+The communication is 0.004760742188 MB, averaging 0.000000145286 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 19.226759279s, averaging 586.754µs
+The communication is 0.005859375000 MB, averaging 0.000000178814 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 22.812490015s, averaging 696.181µs
+The communication is 0.006958007812 MB, averaging 0.000000212342 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 28.298650975s, averaging 863.606µs
+The communication is 0.008056640625 MB, averaging 0.000000245869 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 33.425973578s, averaging 1.020079ms
+The communication is 0.009155273438 MB, averaging 0.000000279397 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 34.534490454s, averaging 1.053909ms
+The communication is 0.010253906250 MB, averaging 0.000000312924 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing x*[P] on the BP group G_T 32768 times took 43.671932201s, averaging 1.332761ms
+The communication is 0.011352539062 MB, averaging 0.000000346452 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 10.990142758s, averaging 1.34157ms
+The communication is 11.001920700073 MB, averaging 0.001343007898 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 16.243453733s, averaging 1.982843ms
+The communication is 26.252566337585 MB, averaging 0.003204658977 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 21.364668324s, averaging 2.607991ms
+The communication is 48.003151893616 MB, averaging 0.005859759753 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 25.334307027s, averaging 3.092566ms
+The communication is 76.253437995911 MB, averaging 0.009308281005 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 31.170485885s, averaging 3.80499ms
+The communication is 111.003905296326 MB, averaging 0.013550281408 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 35.189694238s, averaging 4.295616ms
+The communication is 152.254301071167 MB, averaging 0.018585730111 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 42.975606841s, averaging 5.246045ms
+The communication is 200.004366874695 MB, averaging 0.024414595566 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 47.343172069s, averaging 5.779195ms
+The communication is 254.254701614380 MB, averaging 0.031036950881 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 53.641399759s, averaging 6.548022ms
+The communication is 315.004605293274 MB, averaging 0.038452710607 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 10.858702593s, averaging 1.325525ms
+The communication is 11.001887321472 MB, averaging 0.001343003823 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 15.298718945s, averaging 1.867519ms
+The communication is 26.252476692200 MB, averaging 0.003204648034 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 20.329490144s, averaging 2.481627ms
+The communication is 48.002947807312 MB, averaging 0.005859734840 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 24.60479978s, averaging 3.003515ms
+The communication is 76.253504753113 MB, averaging 0.009308289154 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 31.736669672s, averaging 3.874105ms
+The communication is 111.004085540771 MB, averaging 0.013550303411 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 35.363821865s, averaging 4.316872ms
+The communication is 152.254384994507 MB, averaging 0.018585740356 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 41.980011075s, averaging 5.124513ms
+The communication is 200.004581451416 MB, averaging 0.024414621759 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 44.882150862s, averaging 5.478778ms
+The communication is 254.254266738892 MB, averaging 0.031036897795 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing [x]*[P] on the BP group G_T 8192 times took 50.978162024s, averaging 6.22292ms
+The communication is 315.004727363586 MB, averaging 0.038452725508 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 7.949206453s, averaging 485.181µs
+The communication is 0.000427246094 MB, averaging 0.000000026077 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 11.842636831s, averaging 722.817µs
+The communication is 0.000610351562 MB, averaging 0.000000037253 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 15.786586057s, averaging 963.536µs
+The communication is 0.000793457031 MB, averaging 0.000000048429 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 19.231270006s, averaging 1.173783ms
+The communication is 0.000976562500 MB, averaging 0.000000059605 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 21.474747259s, averaging 1.310714ms
+The communication is 0.001159667969 MB, averaging 0.000000070781 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 26.836470693s, averaging 1.637968ms
+The communication is 0.001342773438 MB, averaging 0.000000081956 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 31.149627394s, averaging 1.901222ms
+The communication is 0.001525878906 MB, averaging 0.000000093132 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 34.410695871s, averaging 2.100262ms
+The communication is 0.001708984375 MB, averaging 0.000000104308 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 35.757613427s, averaging 2.182471ms
+The communication is 0.001892089844 MB, averaging 0.000000115484 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 9.042071202s, averaging 551.884µs
+The communication is 0.000427246094 MB, averaging 0.000000026077 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 11.950569138s, averaging 729.404µs
+The communication is 0.000610351562 MB, averaging 0.000000037253 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 15.834829313s, averaging 966.481µs
+The communication is 0.000793457031 MB, averaging 0.000000048429 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 19.227427512s, averaging 1.173549ms
+The communication is 0.000976562500 MB, averaging 0.000000059605 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 22.701607836s, averaging 1.385596ms
+The communication is 0.001159667969 MB, averaging 0.000000070781 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 26.43910773s, averaging 1.613715ms
+The communication is 0.001342773438 MB, averaging 0.000000081956 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 30.786077236s, averaging 1.879033ms
+The communication is 0.001525878906 MB, averaging 0.000000093132 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 31.89482725s, averaging 1.946705ms
+The communication is 0.001708984375 MB, averaging 0.000000104308 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],Q) on the BP group 16384 times took 36.942409257s, averaging 2.254785ms
+The communication is 0.001892089844 MB, averaging 0.000000115484 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 8.327002161s, averaging 508.239µs
+The communication is 0.000861167908 MB, averaging 0.000000052562 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 12.220307954s, averaging 745.868µs
+The communication is 0.001230239868 MB, averaging 0.000000075088 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 15.489934944s, averaging 945.43µs
+The communication is 0.001599311829 MB, averaging 0.000000097614 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 18.64199788s, averaging 1.137817ms
+The communication is 0.001968383789 MB, averaging 0.000000120141 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 22.976876757s, averaging 1.402397ms
+The communication is 0.002337455750 MB, averaging 0.000000142667 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 27.181789216s, averaging 1.659044ms
+The communication is 0.002706527710 MB, averaging 0.000000165193 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 28.511988719s, averaging 1.740233ms
+The communication is 0.003075599670 MB, averaging 0.000000187720 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 34.23782592s, averaging 2.089711ms
+The communication is 0.003444671631 MB, averaging 0.000000210246 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 37.492961758s, averaging 2.288388ms
+The communication is 0.003813743591 MB, averaging 0.000000232772 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 8.649655903s, averaging 527.933µs
+The communication is 0.000861167908 MB, averaging 0.000000052562 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 11.705123629s, averaging 714.424µs
+The communication is 0.001230239868 MB, averaging 0.000000075088 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 15.901735916s, averaging 970.564µs
+The communication is 0.001599311829 MB, averaging 0.000000097614 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 18.882639228s, averaging 1.152504ms
+The communication is 0.001968383789 MB, averaging 0.000000120141 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 22.98746923s, averaging 1.403043ms
+The communication is 0.002337455750 MB, averaging 0.000000142667 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 25.33738317s, averaging 1.546471ms
+The communication is 0.002706527710 MB, averaging 0.000000165193 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 26.055536022s, averaging 1.590303ms
+The communication is 0.003075599670 MB, averaging 0.000000187720 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 30.046957012s, averaging 1.83392ms
+The communication is 0.003444671631 MB, averaging 0.000000210246 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e(P,[Q]) on the BP group 16384 times took 33.582181352s, averaging 2.049693ms
+The communication is 0.003813743591 MB, averaging 0.000000232772 MB
+n=2
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 14.689739154s, averaging 1.793181ms
+The communication is 7.516106605530 MB, averaging 0.000917493482 MB
+n=3
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 22.149949138s, averaging 2.703851ms
+The communication is 15.797530174255 MB, averaging 0.001928409445 MB
+n=4
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 29.180891377s, averaging 3.56212ms
+The communication is 27.094573974609 MB, averaging 0.003307443112 MB
+n=5
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 35.337846246s, averaging 4.313701ms
+The communication is 41.407261848450 MB, averaging 0.005054597394 MB
+n=6
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 43.508704945s, averaging 5.311121ms
+The communication is 58.735536575317 MB, averaging 0.007169865305 MB
+n=7
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 50.764536587s, averaging 6.196842ms
+The communication is 79.079404830933 MB, averaging 0.009653247660 MB
+n=8
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 55.182481645s, averaging 6.736142ms
+The communication is 102.439015388489 MB, averaging 0.012504762621 MB
+n=9
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 1m0.248938494s, averaging 7.354606ms
+The communication is 128.814257621765 MB, averaging 0.015724396682 MB
+n=10
+In the WAN setting. The bandwidth is 100.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 1m10.798703517s, averaging 8.642419ms
+The communication is 158.204869270325 MB, averaging 0.019312117831 MB
+n=2
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 14.642007027s, averaging 1.787354ms
+The communication is 7.516110420227 MB, averaging 0.000917493948 MB
+n=3
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 23.967754839s, averaging 2.925751ms
+The communication is 15.797547340393 MB, averaging 0.001928411541 MB
+n=4
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 30.757551661s, averaging 3.754583ms
+The communication is 27.094577789307 MB, averaging 0.003307443578 MB
+n=5
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 39.417809553s, averaging 4.811744ms
+The communication is 41.407114982605 MB, averaging 0.005054579466 MB
+n=6
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 44.805987148s, averaging 5.46948ms
+The communication is 58.735637664795 MB, averaging 0.007169877645 MB
+n=7
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 52.809738362s, averaging 6.446501ms
+The communication is 79.079571723938 MB, averaging 0.009653268033 MB
+n=8
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 59.259268799s, averaging 7.233797ms
+The communication is 102.438966751099 MB, averaging 0.012504756683 MB
+n=9
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 1m4.928572861s, averaging 7.925851ms
+The communication is 128.814145088196 MB, averaging 0.015724382945 MB
+n=10
+In the WAN setting. The bandwidth is 500.00 Mbps
+Computing e([P],[Q]) on the BP group 8192 times took 1m13.682786045s, averaging 8.99448ms
+The communication is 158.205118179321 MB, averaging 0.019312148215 MB

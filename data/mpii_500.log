@@ -1,0 +1,673 @@
+nohup: ignoring input
+n = 3
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [10 10 10]
+Data Preparation Time: 96.616549ms
+ver phase start
+ver time: 125.588259ms
+inter phase start
+inter time: 2.557447601s
+Offline Communication: 0.183981 MB
+Online Communication: 0.450732 MB
+2.817213288s
+n = 4
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [10 10 10 10]
+Data Preparation Time: 98.576059ms
+ver phase start
+ver time: 218.357801ms
+inter phase start
+inter time: 3.746747052s
+Offline Communication: 0.355165 MB
+Online Communication: 1.029691 MB
+4.104372837s
+n = 5
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [10 10 10 10 10]
+Data Preparation Time: 102.946169ms
+ver phase start
+ver time: 250.154607ms
+inter phase start
+inter time: 4.932080541s
+Offline Communication: 0.581268 MB
+Online Communication: 1.956802 MB
+5.333495273s
+n = 6
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [10 10 10 10 10 10]
+Data Preparation Time: 106.698983ms
+ver phase start
+ver time: 273.644695ms
+inter phase start
+inter time: 6.07900691s
+Offline Communication: 0.862269 MB
+Online Communication: 3.312650 MB
+6.510688283s
+n = 7
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [10 10 10 10 10 10 10]
+Data Preparation Time: 114.375848ms
+ver phase start
+ver time: 279.778999ms
+inter phase start
+inter time: 7.278826493s
+Offline Communication: 1.198199 MB
+Online Communication: 5.177843 MB
+7.719958591s
+n = 8
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [10 10 10 10 10 10 10 10]
+Data Preparation Time: 116.22024ms
+ver phase start
+ver time: 324.24029ms
+inter phase start
+inter time: 8.435884696s
+Offline Communication: 1.589067 MB
+Online Communication: 7.632926 MB
+8.926274048s
+n = 9
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [10 10 10 10 10 10 10 10 10]
+Data Preparation Time: 124.03159ms
+ver phase start
+ver time: 352.39192ms
+inter phase start
+inter time: 9.578398983s
+Offline Communication: 2.034838 MB
+Online Communication: 10.758472 MB
+10.104535151s
+n = 10
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [10 10 10 10 10 10 10 10 10 10]
+Data Preparation Time: 125.036999ms
+ver phase start
+ver time: 407.844715ms
+inter phase start
+inter time: 10.799623021s
+Offline Communication: 2.535531 MB
+Online Communication: 14.634764 MB
+11.384448107s
+n = 3
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [20 20 20]
+Data Preparation Time: 106.246131ms
+ver phase start
+ver time: 157.063466ms
+inter phase start
+inter time: 5.083012472s
+Offline Communication: 0.697506 MB
+Online Communication: 1.168698 MB
+5.385335126s
+n = 4
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [20 20 20 20]
+Data Preparation Time: 107.734187ms
+ver phase start
+ver time: 187.630301ms
+inter phase start
+inter time: 7.51346008s
+Offline Communication: 1.369402 MB
+Online Communication: 2.735138 MB
+7.842804765s
+n = 5
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [20 20 20 20 20]
+Data Preparation Time: 116.826234ms
+ver phase start
+ver time: 261.992021ms
+inter phase start
+inter time: 9.935677497s
+Offline Communication: 2.260981 MB
+Online Communication: 5.278576 MB
+10.357601428s
+n = 6
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [20 20 20 20 20 20]
+Data Preparation Time: 125.769307ms
+ver phase start
+ver time: 318.798587ms
+inter phase start
+inter time: 12.365506685s
+Offline Communication: 3.372237 MB
+Online Communication: 9.033529 MB
+12.85538314s
+n = 7
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [20 20 20 20 20 20 20]
+Data Preparation Time: 129.746788ms
+ver phase start
+ver time: 391.15535ms
+inter phase start
+inter time: 14.762953626s
+Offline Communication: 4.703253 MB
+Online Communication: 14.234121 MB
+15.332516725s
+n = 8
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [20 20 20 20 20 20 20 20]
+Data Preparation Time: 145.035723ms
+ver phase start
+ver time: 477.955809ms
+inter phase start
+inter time: 17.245010653s
+Offline Communication: 6.253777 MB
+Online Communication: 21.114683 MB
+17.922406093s
+n = 9
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [20 20 20 20 20 20 20 20 20]
+Data Preparation Time: 155.82883ms
+ver phase start
+ver time: 789.749526ms
+inter phase start
+inter time: 19.755503626s
+Offline Communication: 8.024058 MB
+Online Communication: 29.910033 MB
+20.752483633s
+n = 10
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [20 20 20 20 20 20 20 20 20 20]
+Data Preparation Time: 158.457679ms
+ver phase start
+ver time: 668.01952ms
+inter phase start
+inter time: 22.219088049s
+Offline Communication: 10.014081 MB
+Online Communication: 40.854181 MB
+23.095838457s
+n = 3
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [50 50 50]
+Data Preparation Time: 123.545606ms
+ver phase start
+ver time: 207.118699ms
+inter phase start
+inter time: 12.579948484s
+Offline Communication: 4.215234 MB
+Online Communication: 4.933852 MB
+12.949606521s
+n = 4
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [50 50 50 50]
+Data Preparation Time: 131.177166ms
+ver phase start
+ver time: 307.343327ms
+inter phase start
+inter time: 18.736299771s
+Offline Communication: 8.366613 MB
+Online Communication: 11.915746 MB
+19.216653679s
+n = 5
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [50 50 50 50 50]
+Data Preparation Time: 139.266577ms
+ver phase start
+ver time: 455.595061ms
+inter phase start
+inter time: 24.929646204s
+Offline Communication: 13.890801 MB
+Online Communication: 23.445801 MB
+25.568426569s
+n = 6
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [50 50 50 50 50 50]
+Data Preparation Time: 160.004218ms
+ver phase start
+ver time: 582.997265ms
+inter phase start
+inter time: 31.153664554s
+Offline Communication: 20.788038 MB
+Online Communication: 40.658548 MB
+31.942073879s
+n = 7
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [50 50 50 50 50 50 50]
+Data Preparation Time: 189.296665ms
+ver phase start
+ver time: 751.556509ms
+inter phase start
+inter time: 37.449362922s
+Offline Communication: 29.058405 MB
+Online Communication: 64.690119 MB
+38.437888742s
+n = 8
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [50 50 50 50 50 50 50 50]
+Data Preparation Time: 163.658734ms
+ver phase start
+ver time: 950.644922ms
+inter phase start
+inter time: 43.867436787s
+Offline Communication: 38.701919 MB
+Online Communication: 96.674646 MB
+45.030274373s
+n = 9
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [50 50 50 50 50 50 50 50 50]
+Data Preparation Time: 179.123726ms
+ver phase start
+ver time: 1.177120404s
+inter phase start
+inter time: 50.327236727s
+Offline Communication: 49.718085 MB
+Online Communication: 137.747651 MB
+51.734192842s
+n = 10
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [50 50 50 50 50 50 50 50 50 50]
+Data Preparation Time: 172.011633ms
+ver phase start
+ver time: 1.403374378s
+inter phase start
+inter time: 56.783564649s
+Offline Communication: 62.107569 MB
+Online Communication: 189.044417 MB
+58.409711453s
+n = 3
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [100 100 100]
+Data Preparation Time: 107.907658ms
+ver phase start
+ver time: 326.765115ms
+inter phase start
+inter time: 25.075555075s
+Offline Communication: 16.668860 MB
+Online Communication: 16.579123 MB
+25.54926999s
+n = 4
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [100 100 100 100]
+Data Preparation Time: 130.899369ms
+ver phase start
+ver time: 503.258125ms
+inter phase start
+inter time: 37.575993251s
+Offline Communication: 33.209611 MB
+Online Communication: 40.764281 MB
+38.251557189s
+n = 5
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [100 100 100 100 100]
+Data Preparation Time: 156.003247ms
+ver phase start
+ver time: 781.28896ms
+inter phase start
+inter time: 50.163589125s
+Offline Communication: 55.242173 MB
+Online Communication: 81.063418 MB
+51.143791215s
+n = 6
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [100 100 100 100 100 100]
+Data Preparation Time: 175.902572ms
+ver phase start
+ver time: 1.053177272s
+inter phase start
+inter time: 1m2.928922342s
+Offline Communication: 82.767605 MB
+Online Communication: 141.576546 MB
+1m4.203851517s
+n = 7
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [100 100 100 100 100 100 100]
+Data Preparation Time: 156.530336ms
+ver phase start
+ver time: 1.407270334s
+inter phase start
+inter time: 1m15.825754618s
+Offline Communication: 115.785510 MB
+Online Communication: 226.406716 MB
+1m17.436404765s
+n = 8
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [100 100 100 100 100 100 100 100]
+Data Preparation Time: 209.008931ms
+ver phase start
+ver time: 1.773767495s
+inter phase start
+inter time: 1m29.28219179s
+Offline Communication: 154.294955 MB
+Online Communication: 339.652598 MB
+1m31.314151335s
+n = 9
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [100 100 100 100 100 100 100 100 100]
+Data Preparation Time: 195.631543ms
+ver phase start
+ver time: 2.197186284s
+inter phase start
+inter time: 1m42.607322634s
+Offline Communication: 198.296002 MB
+Online Communication: 485.417272 MB
+1m45.04989276s
+n = 10
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [100 100 100 100 100 100 100 100 100 100]
+Data Preparation Time: 209.981649ms
+ver phase start
+ver time: 2.704134852s
+inter phase start
+inter time: 1m56.675700068s
+Offline Communication: 247.790371 MB
+Online Communication: 667.799114 MB
+1m59.643509818s
+n = 3
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [200 200 200]
+Data Preparation Time: 121.912722ms
+ver phase start
+ver time: 516.960951ms
+inter phase start
+inter time: 50.517835031s
+Offline Communication: 66.291169 MB
+Online Communication: 60.007930 MB
+51.195097482s
+n = 4
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [200 200 200 200]
+Data Preparation Time: 146.082011ms
+ver phase start
+ver time: 944.4032ms
+inter phase start
+inter time: 1m16.105446587s
+Offline Communication: 132.325966 MB
+Online Communication: 149.264156 MB
+1m17.237704061s
+n = 5
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [200 200 200 200 200]
+Data Preparation Time: 189.068384ms
+ver phase start
+ver time: 1.394897074s
+inter phase start
+inter time: 1m42.224450915s
+Offline Communication: 220.329759 MB
+Online Communication: 298.819616 MB
+1m43.852621365s
+n = 6
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [200 200 200 200 200 200]
+Data Preparation Time: 183.591457ms
+ver phase start
+ver time: 1.9769494s
+inter phase start
+inter time: 2m8.670381122s
+Offline Communication: 330.302418 MB
+Online Communication: 524.199143 MB
+2m10.876766202s
+n = 7
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [200 200 200 200 200 200 200]
+Data Preparation Time: 228.644026ms
+ver phase start
+ver time: 2.638312634s
+inter phase start
+inter time: 2m35.956162045s
+Offline Communication: 462.243554 MB
+Online Communication: 840.927381 MB
+2m38.860675761s
+n = 8
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [200 200 200 200 200 200 200 200]
+Data Preparation Time: 268.932533ms
+ver phase start
+ver time: 3.463350516s
+inter phase start
+inter time: 3m5.17389192s
+Offline Communication: 616.153825 MB
+Online Communication: 1264.529527 MB
+3m8.955204242s
+n = 9
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [200 200 200 200 200 200 200 200 200]
+Data Preparation Time: 261.867689ms
+ver phase start
+ver time: 4.328215936s
+inter phase start
+inter time: 3m34.906972218s
+Offline Communication: 792.032596 MB
+Online Communication: 1810.530905 MB
+3m39.533583838s
+n = 10
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [200 200 200 200 200 200 200 200 200 200]
+Data Preparation Time: 295.046691ms
+ver phase start
+ver time: 5.332001395s
+inter phase start
+inter time: 4m4.232626043s
+Offline Communication: 989.881470 MB
+Online Communication: 2494.455521 MB
+4m9.897418461s
+n = 3
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [500 500 500]
+Data Preparation Time: 163.21745ms
+ver phase start
+ver time: 1.291532915s
+inter phase start
+inter time: 2m10.793511067s
+Offline Communication: 412.877889 MB
+Online Communication: 351.398736 MB
+2m12.277591791s
+n = 4
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [500 500 500 500]
+Data Preparation Time: 232.417432ms
+ver phase start
+ver time: 2.185759967s
+inter phase start
+inter time: 3m19.688587492s
+Offline Communication: 825.115243 MB
+Online Communication: 881.187535 MB
+3m22.148273263s
+n = 5
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [500 500 500 500 500]
+Data Preparation Time: 269.412062ms
+ver phase start
+ver time: 3.378084359s
+inter phase start
+inter time: 4m31.551742494s
+Offline Communication: 1374.655537 MB
+Online Communication: 1772.259644 MB
+4m35.237027797s
+n = 6
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [500 500 500 500 500 500]
+Data Preparation Time: 272.154225ms
+ver phase start
+ver time: 4.817309985s
+inter phase start
+inter time: 5m45.088201114s
+Offline Communication: 2061.504427 MB
+Online Communication: 3118.351668 MB
+5m50.213748429s
+n = 7
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [500 500 500 500 500 500 500]
+Data Preparation Time: 371.004893ms
+ver phase start
+ver time: 6.458359666s
+inter phase start
+inter time: 7m2.94401992s
+Offline Communication: 2885.655694 MB
+Online Communication: 5013.190384 MB
+7m9.80971672s
+n = 8
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [500 500 500 500 500 500 500 500]
+Data Preparation Time: 399.710936ms
+ver phase start
+ver time: 8.442406163s
+inter phase start
+inter time: 8m23.407934241s
+Offline Communication: 3847.118242 MB
+Online Communication: 7550.519837 MB
+8m32.29732855s
+n = 9
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [500 500 500 500 500 500 500 500 500]
+Data Preparation Time: 415.083195ms
+ver phase start
+ver time: 10.73591367s
+inter phase start
+inter time: 9m44.045569539s
+Offline Communication: 4945.882576 MB
+Online Communication: 10824.063199 MB
+9m55.234259196s
+n = 10
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [500 500 500 500 500 500 500 500 500 500]
+Data Preparation Time: 457.749361ms
+ver phase start
+ver time: 13.189934496s
+inter phase start
+inter time: 11m9.526599105s
+Offline Communication: 6181.949153 MB
+Online Communication: 14927.565810 MB
+11m23.212080963s
+n = 3
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [1000 1000 1000]
+Data Preparation Time: 213.442873ms
+ver phase start
+ver time: 2.576319737s
+inter phase start
+inter time: 4m39.525412391s
+Offline Communication: 1649.588475 MB
+Online Communication: 1374.068738 MB
+4m42.347966763s
+n = 4
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [1000 1000 1000 1000]
+Data Preparation Time: 349.664987ms
+ver phase start
+ver time: 4.497801129s
+inter phase start
+inter time: 7m4.249046811s
+Offline Communication: 3297.893784 MB
+Online Communication: 3455.807653 MB
+7m9.138028363s
+n = 5
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [1000 1000 1000 1000 1000]
+Data Preparation Time: 370.569075ms
+ver phase start
+ver time: 6.817301701s
+inter phase start
+inter time: 9m39.618923956s
+Offline Communication: 5495.424160 MB
+Online Communication: 6961.900309 MB
+9m46.850929438s
+n = 6
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 468.547493ms
+ver phase start
+ver time: 10.297837489s
+inter phase start
+inter time: 12m16.894072763s
+Offline Communication: 8242.172497 MB
+Online Communication: 12262.873380 MB
+12m27.704585145s
+n = 7
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [1000 1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 504.990216ms
+ver phase start
+ver time: 13.356947484s
+inter phase start
+inter time: 14m50.804826354s
+Offline Communication: 11538.142663 MB
+Online Communication: 19729.294646 MB
+15m4.702104261s
+n = 8
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [1000 1000 1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 743.718861ms
+ver phase start
+ver time: 17.122936513s
+inter phase start
+inter time: 18m1.768358478s
+Offline Communication: 15383.335876 MB
+Online Communication: 29731.689402 MB
+18m19.685034873s
+n = 9
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [1000 1000 1000 1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 824.690501ms
+ver phase start
+ver time: 28.380570809s
+inter phase start
+inter time: 21m56.068820437s
+Offline Communication: 19777.750751 MB
+Online Communication: 42640.621009 MB
+22m25.314311859s
+n = 10
+Network Mode: WAN
+Bandwidth: 500.00 Mbps
+Input Sizes: [1000 1000 1000 1000 1000 1000 1000 1000 1000 1000]
+Data Preparation Time: 812.32916ms
+ver phase start
+ver time: 30.216028579s
+inter phase start
+inter time: 28m24.226239728s
+Offline Communication: 24721.395953 MB
+Online Communication: 58826.587662 MB
+28m55.292866028s

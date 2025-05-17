@@ -42,6 +42,7 @@ func (b *BandwidthSimulator) SimulateSend(msg []byte) {
 			if sleepDuration > 0 {
 				time.Sleep(sleepDuration)
 			}
+			time.Sleep(20 * time.Millisecond)
 			time.Sleep(time.Duration(delayNs))
 			break
 		}
@@ -66,6 +67,7 @@ func (b *BandwidthSimulator) SimulateBroadcast(msg []byte, receiverCount int) {
 			if sleepUntil > 0 {
 				time.Sleep(sleepUntil)
 			}
+			time.Sleep(20 * time.Millisecond)
 			time.Sleep(time.Duration(delayNs))
 			break
 		}

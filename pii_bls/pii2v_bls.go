@@ -8,52 +8,9 @@ import (
 	"time"
 
 	"github.com/Oryx/curve"
-	"github.com/Oryx/mpc"
 )
 
-func (system *PIISystem) verphase(inputsets []InputSet) []VerSet {
-	versets := make([]VerSet, system.partynum)
-	var wg sync.WaitGroup // Add missing import for "sync" package
-	blocknum := 4096
-	for i := 0; i < system.partynum; i++ {
-		versets[i].Vers = make([](*[]mpc.Share_GT), inputsets[i].inputsize)
-		versets[i].PKshares = make([](*[]mpc.Share_G2), inputsets[i].inputsize)
-		//versets[i].PKxshares = make([](*[]mpc.Share_Fp), inputsets[i].inputsize)
-		versets[i].inputsize = inputsets[i].inputsize
-		eachblock := inputsets[i].inputsize/blocknum + 1
-		for j := 0; ; j = j + eachblock {
-			if j+eachblock >= inputsets[i].inputsize {
-				wg.Add(1)
-				go func(i, j int) {
-					defer wg.Done()
-					for q := j; q < inputsets[i].inputsize; q++ {
-						versets[i].Vers[q] = system.PiiSystem.SecVerWithoutOpen(inputsets[i].Sigs[q])
-						//fmt.Println(system.PiiSystem.System.HalfOpenGT(*versets[i].Vers[q]))
-						versets[i].PKshares[q] = inputsets[i].Sigs[q].Pkshare
-						//versets[i].PKxshares[q] = inputsets[i].PKxshares[q]
-					}
-				}(i, j)
-				break
-			} else {
-				wg.Add(1)
-				go func(i, j int) {
-					defer wg.Done()
-					for q := j; q < j+eachblock; q++ {
-						versets[i].Vers[q] = system.PiiSystem.SecVerWithoutOpen(inputsets[i].Sigs[q])
-						//fmt.Println(system.PiiSystem.System.HalfOpenGT(*versets[i].Vers[q]))
-						versets[i].PKshares[q] = inputsets[i].Sigs[q].Pkshare
-						//versets[i].PKxshares[q] = inputsets[i].PKxshares[q]
-					}
-				}(i, j)
-			}
-
-		}
-	}
-	wg.Wait()
-	return versets
-}
-
-func (system *PIISystem) interphase(versets []VerSet, seedsets []SeedSet) []*curve.G2 {
+func (system *PIISystem) interphase_v(versets []VerSet, seedsets []SeedSet) []*curve.G2 {
 	intersection := make([]*curve.G2, 0)
 	interChan := make(chan *curve.G2, 100)
 	var wg sync.WaitGroup
@@ -127,14 +84,14 @@ func (system *PIISystem) interphase(versets []VerSet, seedsets []SeedSet) []*cur
 	return intersection
 }
 
-func (system *PIISystem) twoPartyPiiRun(inputsets []InputSet, seedsets []SeedSet) []*curve.G2 {
+func (system *PIISystem) PartyPiiRun(inputsets []InputSet, seedsets []SeedSet) []*curve.G2 {
 	fmt.Println("ver phase start")
 	vertime := time.Now()
 	versets := system.verphase(inputsets)
 	fmt.Println("ver time:", time.Since(vertime))
 	fmt.Println("inter phase start")
 	intertime := time.Now()
-	intersection := system.interphase(versets, seedsets)
+	intersection := system.interphase_v(versets, seedsets)
 	fmt.Println("inter time:", time.Since(intertime))
 	//fmt.Println("intersection:", intersection)
 	fmt.Printf("Offline Communication: %f MB\n", float64(system.PiiSystem.System.OfflineCom)/1024/1024)

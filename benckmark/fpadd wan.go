@@ -10,12 +10,12 @@ import (
 	mpc "github.com/Oryx/mpc"
 )
 
-func TestMaliciousHalfOpen(bandwidth float64) {
+func TestMaliciousHalfOpenWAN(bandwidth float64) {
 	for partynum := 2; partynum <= 10; partynum++ {
 		e1, _ := curve.RandomK(rand.Reader)
-		system := mpc.SystemInit(partynum)
+		system := mpc.SystemInitWAN(partynum, bandwidth)
 		shares1 := system.Share_An_Fp(e1)
-		testnum := 1 << 20
+		testnum := 1 << 18
 		worker := 8192
 		var wg sync.WaitGroup // 创建 WaitGroup 实例
 		t1 := time.Now()
@@ -32,17 +32,18 @@ func TestMaliciousHalfOpen(bandwidth float64) {
 		wg.Wait() // 等待所有协程完成
 		t2 := time.Since(t1)
 		fmt.Printf("n=%d\n", partynum)
+		fmt.Printf("In the WAN setting. The bandwidth is %.2f Mbps\n", bandwidth)
 		fmt.Printf("Opening partially [x] on F_p %d times took %s, averaging %s\n", testnum, t2, t2/time.Duration(testnum))
 		fmt.Printf("The communication is %.12f MB, averaging %.12f MB\n", float64(system.Com+system.OfflineCom)/1024/1024, float64(system.Com+system.OfflineCom)/1024/1024/float64(testnum))
 	}
 }
 
-func TestMaliciousOpen() {
+func TestMaliciousOpenWAN(bandwidth float64) {
 	for partynum := 2; partynum <= 10; partynum++ {
 		e1, _ := curve.RandomK(rand.Reader)
-		system := mpc.SystemInit(partynum)
+		system := mpc.SystemInitWAN(partynum, bandwidth)
 		shares1 := system.Share_An_Fp(e1)
-		testnum := 1 << 20
+		testnum := 1 << 18
 		worker := 8192
 		var wg sync.WaitGroup // 创建 WaitGroup 实例
 		t1 := time.Now()
@@ -59,19 +60,20 @@ func TestMaliciousOpen() {
 		wg.Wait() // 等待所有协程完成
 		t2 := time.Since(t1)
 		fmt.Printf("n=%d\n", partynum)
+		fmt.Printf("In the WAN setting. The bandwidth is %.2f Mbps\n", bandwidth)
 		fmt.Printf("Opening [x] on F_p %d times took %s, averaging %s\n", testnum, t2, t2/time.Duration(testnum))
 		fmt.Printf("The communication is %.12f MB, averaging %.12f MB\n", float64(system.Com+system.OfflineCom)/1024/1024, float64(system.Com+system.OfflineCom)/1024/1024/float64(testnum))
 	}
 }
 
-func TestMaliciousSecAdd() {
+func TestMaliciousSecAddWAN(bandwidth float64) {
 	for partynum := 2; partynum <= 10; partynum++ {
 		e1, _ := curve.RandomK(rand.Reader)
 		e2, _ := curve.RandomK(rand.Reader)
-		system := mpc.SystemInit(partynum)
+		system := mpc.SystemInitWAN(partynum, bandwidth)
 		shares1 := system.Share_An_Fp(e1)
 		shares2 := system.Share_An_Fp(e2)
-		testnum := 1 << 20
+		testnum := 1 << 18
 		worker := 8192
 		var wg sync.WaitGroup // 创建 WaitGroup 实例
 		t1 := time.Now()
@@ -88,19 +90,20 @@ func TestMaliciousSecAdd() {
 		wg.Wait() // 等待所有协程完成
 		t2 := time.Since(t1)
 		fmt.Printf("n=%d\n", partynum)
+		fmt.Printf("In the WAN setting. The bandwidth is %.2f Mbps\n", bandwidth)
 		fmt.Printf("Calculating [x] + [y] on F_p %d times took %s, averaging %s\n", testnum, t2, t2/time.Duration(testnum))
 		fmt.Printf("The communication is %.12f MB, averaging %.12f MB\n", float64(system.Com+system.OfflineCom)/1024/1024, float64(system.Com+system.OfflineCom)/1024/1024/float64(testnum))
 	}
 }
 
-func TestMaliciousSecSub() {
+func TestMaliciousSecSubWAN(bandwidth float64) {
 	for partynum := 2; partynum <= 10; partynum++ {
 		e1, _ := curve.RandomK(rand.Reader)
 		e2, _ := curve.RandomK(rand.Reader)
-		system := mpc.SystemInit(partynum)
+		system := mpc.SystemInitWAN(partynum, bandwidth)
 		shares1 := system.Share_An_Fp(e1)
 		shares2 := system.Share_An_Fp(e2)
-		testnum := 1 << 20
+		testnum := 1 << 18
 		worker := 8192
 		var wg sync.WaitGroup // 创建 WaitGroup 实例
 		t1 := time.Now()
@@ -117,18 +120,19 @@ func TestMaliciousSecSub() {
 		wg.Wait() // 等待所有协程完成
 		t2 := time.Since(t1)
 		fmt.Printf("n=%d\n", partynum)
+		fmt.Printf("In the WAN setting. The bandwidth is %.2f Mbps\n", bandwidth)
 		fmt.Printf("Calculating [x] - [y] on F_p %d times took %s, averaging %s\n", testnum, t2, t2/time.Duration(testnum))
 		fmt.Printf("The communication is %.12f MB, averaging %.12f MB\n", float64(system.Com+system.OfflineCom)/1024/1024, float64(system.Com+system.OfflineCom)/1024/1024/float64(testnum))
 	}
 }
 
-func TestMaliciousSecMulP() {
+func TestMaliciousSecMulPWAN(bandwidth float64) {
 	for partynum := 2; partynum <= 10; partynum++ {
 		e1, _ := curve.RandomK(rand.Reader)
 		e2, _ := curve.RandomK(rand.Reader)
-		system := mpc.SystemInit(partynum)
+		system := mpc.SystemInitWAN(partynum, bandwidth)
 		shares1 := system.Share_An_Fp(e1)
-		testnum := 1 << 20
+		testnum := 1 << 18
 		worker := 8192
 		var wg sync.WaitGroup // 创建 WaitGroup 实例
 		t1 := time.Now()
@@ -145,19 +149,20 @@ func TestMaliciousSecMulP() {
 		wg.Wait() // 等待所有协程完成
 		t2 := time.Since(t1)
 		fmt.Printf("n=%d\n", partynum)
+		fmt.Printf("In the WAN setting. The bandwidth is %.2f Mbps\n", bandwidth)
 		fmt.Printf("Calculating [x] * y on F_p %d times took %s, averaging %s\n", testnum, t2, t2/time.Duration(testnum))
 		fmt.Printf("The communication is %.12f MB, averaging %.12f MB\n", float64(system.Com+system.OfflineCom)/1024/1024, float64(system.Com+system.OfflineCom)/1024/1024/float64(testnum))
 	}
 }
 
-func TestMaliciousSecMul() {
-	for partynum := 100; partynum <= 100; partynum++ {
+func TestMaliciousSecMulWAN(bandwidth float64) {
+	for partynum := 2; partynum <= 10; partynum++ {
 		e1, _ := curve.RandomK(rand.Reader)
 		e2, _ := curve.RandomK(rand.Reader)
-		system := mpc.SystemInit(partynum)
+		system := mpc.SystemInitWAN(partynum, bandwidth)
 		shares1 := system.Share_An_Fp(e1)
 		shares2 := system.Share_An_Fp(e2)
-		testnum := 100000
+		testnum := 1 << 14
 		worker := 8192
 		var wg sync.WaitGroup // 创建 WaitGroup 实例
 		t1 := time.Now()
@@ -174,17 +179,18 @@ func TestMaliciousSecMul() {
 		wg.Wait() // 等待所有协程完成
 		t2 := time.Since(t1)
 		fmt.Printf("n=%d\n", partynum)
+		fmt.Printf("In the WAN setting. The bandwidth is %.2f Mbps\n", bandwidth)
 		fmt.Printf("Calculating [x] * [y] on F_p %d times took %s, averaging %s\n", testnum, t2, t2/time.Duration(testnum))
 		fmt.Printf("The communication is %.12f MB, averaging %.12f MB\n", float64(system.Com+system.OfflineCom)/1024/1024, float64(system.Com+system.OfflineCom)/1024/1024/float64(testnum))
 	}
 }
 
-func TestMaliciousSecSquare() {
+func TestMaliciousSecSquareWAN(bandwidth float64) {
 	for partynum := 2; partynum <= 10; partynum++ {
 		e1, _ := curve.RandomK(rand.Reader)
-		system := mpc.SystemInit(partynum)
+		system := mpc.SystemInitWAN(partynum, bandwidth)
 		shares1 := system.Share_An_Fp(e1)
-		testnum := 1 << 20
+		testnum := 1 << 16
 		worker := 8192
 		var wg sync.WaitGroup // 创建 WaitGroup 实例
 		t1 := time.Now()
@@ -201,7 +207,26 @@ func TestMaliciousSecSquare() {
 		wg.Wait() // 等待所有协程完成
 		t2 := time.Since(t1)
 		fmt.Printf("n=%d\n", partynum)
+		fmt.Printf("In the WAN setting. The bandwidth is %.2f Mbps\n", bandwidth)
 		fmt.Printf("Calculating [x]^2 on F_p %d times took %s, averaging %s\n", testnum, t2, t2/time.Duration(testnum))
 		fmt.Printf("The communication is %.12f MB, averaging %.12f MB\n", float64(system.Com+system.OfflineCom)/1024/1024, float64(system.Com+system.OfflineCom)/1024/1024/float64(testnum))
 	}
+}
+
+func BenckmarkFpadd() {
+	TestMaliciousHalfOpenWAN(100)
+	TestMaliciousHalfOpenWAN(500)
+	TestMaliciousOpenWAN(100)
+	TestMaliciousOpenWAN(500)
+	TestMaliciousSecAddWAN(100)
+	TestMaliciousSecAddWAN(500)
+	TestMaliciousSecSubWAN(100)
+	TestMaliciousSecSubWAN(500)
+	TestMaliciousSecMulPWAN(100)
+	TestMaliciousSecMulPWAN(500)
+	TestMaliciousSecMulWAN(100)
+	TestMaliciousSecMulWAN(500)
+	TestMaliciousSecSquareWAN(100)
+	TestMaliciousSecSquareWAN(500)
+
 }

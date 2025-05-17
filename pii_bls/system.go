@@ -204,17 +204,33 @@ func (system *PIISystem) Run(inputsets []InputSet, seedset []SeedSet) {
 	system.twoPartyPiiRun(inputsets, seedset)
 }
 
+func (system *PIISystem) Run_v(inputsets []InputSet, seedset []SeedSet) {
+	system.PartyPiiRun(inputsets, seedset)
+}
+
 func (system *PIISystem) GetCommunication() (float64, float64) {
 	return float64(system.PiiSystem.System.OfflineCom) / 1024 / 1024, float64(system.PiiSystem.System.Com) / 1024 / 1024
 }
 
 func PIIProtocol(intersize int, inputsize []int, mode int, isWAN bool, bandwidth float64) *PIISystem {
 	partynum := len(inputsize)
+	fmt.Printf("n = %d\n", partynum)
+	if isWAN {
+		fmt.Printf("Network Mode: WAN\n")
+		fmt.Printf("Bandwidth: %.2f Mbps\n", bandwidth)
+	} else {
+		fmt.Printf("Network Mode: LAN\n")
+	}
+	fmt.Printf("Input Sizes: %v\n", inputsize)
 	piisystem := PiiInitSystem(partynum, isWAN, bandwidth)
 	timepoint := time.Now()
 	seedsets, privatesets := piisystem.PrepareData(intersize, inputsize)
 	timepoint1 := time.Since(timepoint)
 	fmt.Println("Data Preparation Time:", timepoint1)
-	piisystem.Run(seedsets, privatesets)
+	if mode == 0 {
+		piisystem.Run(seedsets, privatesets)
+	} else {
+		piisystem.Run_v(seedsets, privatesets)
+	}
 	return piisystem
 }
