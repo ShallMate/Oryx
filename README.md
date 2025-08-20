@@ -6,6 +6,10 @@ $\mathsf{Oryx}$ is a library that was implemented to implement the **<span style
 
 **<span style="color:red">PII is a new type of Private Matching, similar to Private Set Intersection (PSI), but with more robust security; it guarantees the authenticity and integrity of input and output, and the entire calculation process is verifiable. The output of PII is sent to all parties. At the same time, we provide two versions. The two-party and multi-party constructions use multiple signature schemes. For details, please see our paper.**</span>
 
+[Privacy-Preserving Authorized Set Matching via Dishonest Majority Multiparty Computation](https://ieeexplore.ieee.org/document/11125910)  
+*IEEE Transactions on Dependable and Secure Computing, 2025*  
+
+
 **<span style="color:red">You can find all the experimental code in our paper in the benchmark folder to reproduce our results.**</span>
 
 ## Advantages of PII
